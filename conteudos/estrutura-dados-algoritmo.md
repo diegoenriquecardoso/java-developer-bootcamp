@@ -1,4 +1,4 @@
-# Estrutura de Dados e Algoritmos
+# 💻 Estrutura de Dados e Algoritmos
 
 ## O que é Estrutura de Dados?
 > Estrutura de dados é o ramo da computação que estuda os diversos mecanismos de organização de dados para atender aos diferentes requisitos de processamento.
@@ -27,4 +27,3 @@
 > **Vetores e matrizes:** coleções de variáveis contínuas na memória e acessadas através de um número de índice. A diferença entre vetores e matrizes é que vetores são de uma única dimensão, enquanto matrizes podem conter várias dimensões. 
 
 > **Registro:** composto por campos que especificam cada uma das informações que o compõem. Uma variável do tipo registro é uma variável composta, pois engloba um conjunto de dados, e é heterogênea, pois cada campo pode ser de um tipo primitivo diferente. 
-
