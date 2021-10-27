@@ -8,7 +8,7 @@
 ## ❗ Sobre o Repositório
 > O Bootcamp trata-se de programa completo de aprendizagem com evolução em **Java**, **Spring Boot** e **AWS**. 
 > <br>
-> O objetivo deste repositório é apresentar estudos e ensinamentos durante o bootcamp.
+> O objetivo deste repositório é apresentar meus estudos pessoais adquiridos durante o bootcamp.
 
 ## Sumário
 [1 - Lógica de Programação Essencial](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/logica-programacao.md) <br>
