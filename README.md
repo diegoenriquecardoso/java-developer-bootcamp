@@ -14,4 +14,4 @@
 > O objetivo deste repositório é apresentar estudos e ensinamentos durante o bootcamp.
 
 ## Sumário
-[1 - Lógica de Programação Essencial](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/logica-programacao.md)
+[1 - Lógica de Programação Essencial](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/logica-programacao.md)
