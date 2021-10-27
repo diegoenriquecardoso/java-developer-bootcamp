@@ -14,5 +14,5 @@
 > O objetivo deste repositório é apresentar estudos e ensinamentos durante o bootcamp.
 
 ## Sumário
-[1 - Lógica de Programação Essencial](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/logica-programacao.md)
-[2 - Estrutura de Dados e Algoritmo]()
+[1 - Lógica de Programação Essencial](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/logica-programacao.md) <br>
+[2 - Estrutura de Dados e Algoritmo](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/estrutura-dados-algoritmo.md)
