@@ -10,3 +10,16 @@
 ## Como executar LINUX no WINDOWS com WSL 2
 > WLS trata-se de uma sigla para Windows Subsystem for Linux. Com o WSL, já era possível executar um ambiente Linux no Windows 10 para rodar utilitários e ferramentas do Linux.
 > Entre no site oficial da Microsoft, contendo o passo a passo para a instalação do WSL [clicando aqui!](https://docs.microsoft.com/pt-br/windows/wsl/install)
+
+## Atalhos do Terminal
+
+| Função | Atalho |
+| --- | --- |
+| Cancelar o comando atual em funcionamento | Ctrl + C |
+| Pausar o comando atual, em primeiro plano ou segundo plano. | Ctrl + Z |
+| Fazer o logout da sessão atual | Ctrl + D |
+| Apagar uma palavra na linha atual | Ctrl + W |
+| Apagar a linha inteira | Ctrl + U |
+| Busca um comando recente | Ctrl + R |
+| Repetir o último comando | !! |
+| Fazer o logout da sessão atual | exit |
