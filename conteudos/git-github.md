@@ -41,3 +41,4 @@ https://git-scm.com/downloads
 | Deleta uma branch local | git branch -D nome-branch | git branch -d nome-branch |
 | Deleta todas as branch que não se encontram no repositório remoto | git branch --merged ## | git branch --merged ## |
 | Checar o que houve nas alterações | git diff | git diff --name only |
+| Criar arquivos sem conteúdo | echo > | touch |
