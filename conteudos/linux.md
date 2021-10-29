@@ -102,9 +102,9 @@
 
 1. **Crie uma pasta** de nome **Exercícios** e acesse a mesma
 2. **Crie um arquivo** vazio de nome lista_nomes.txt
-3. Abra o arquivo com o **editor nano**
-4. Digite 20 nomes de pessoas conhecidas incluindo o seu, pulando linhas para cada nome inserido
-5. Salve o arquivo
+3. **Abra** o arquivo com o **editor nano**
+4. **Digite** 20 nomes de pessoas conhecidas incluindo o seu, pulando linhas para cada nome inserido
+5. **Salve** o arquivo
 6. **Exiba os 10 primeiros** nomes da lista
 7. **Exiba os 10 últimos** nomes da lista
 8. **Procure** no texto o seu nome
