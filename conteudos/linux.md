@@ -60,3 +60,18 @@
 13. **Exclua** o arquivo linux.txt
 14. **Limpe** o terminal
 15. Utilize o comando para **sair** do terminal
+
+## Lidando com arquivos .txt
+
+> Para modificar um arquivo .txt, execute o `nano (nome do arquivo)` e você será redirecionado ao local GNU nano.
+
+![image](https://user-images.githubusercontent.com/81873935/139365299-6a3f759d-b97e-4002-a4d6-53692149281a.png)
+
+| Função | Atalho |
+| --- | --- |
+| Justificar o texto | Ctrl + J |
+| Desfazer a última ação | ALT + U |
+| Refazer a última ação | ALT + E |
+| Marcar texto | ALT + A |
+| Copiar o texto | ALT + 6 |
+| Colar o texto | CTRL + U |
