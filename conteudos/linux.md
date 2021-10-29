@@ -15,33 +15,36 @@
 
 | Função | Atalho / Comando |
 | --- | --- |
-| Cancelar o comando atual em funcionamento | Ctrl + C |
-| Pausar o comando atual, em primeiro plano ou segundo plano. | Ctrl + Z |
-| Fazer o logout da sessão atual | Ctrl + D |
-| Apagar uma palavra na linha atual | Ctrl + W |
-| Apagar a linha inteira | Ctrl + U |
-| Busca um comando recente | Ctrl + R |
-| Repetir o último comando | !! |
-| Listar diretórios e arquivos | ls |
-| Opção de lista longa com detalhes | ls -l |
-| Listar outro diretório que não o atual | ls dir |
-| Exibir histórico de comandos | history |
-| Criar diretórios | mkdir |
-| Remover diretórios com a opção -r | rm -r |
-| Mudar o diretório atual para outro | cd dir |
-| Mudar para o diretório raiz / | cd / |
-| Mudar para o diretório pessoal (home) | cd ~ |
-| Retornar ao diretório anterior | cd .. |
-| Exibir o arquivo de ajuda de um comando | --help |
-| Exibir o manual do comando | man comando |
-| Renomear um diretório ou arquivo | mv antigo novo |
-| Mover um diretório para o diretório pessoal | mv dir/ ~ |
-| Criar aquivos vazios no Linux | touch nomearquivo |
-| Fazer cópia de um arquivo para outro diretório | cp arquivo diretório |
-| Específico para remover diretórios | rmdir |
-| Remover arquivos | rm nomearquivo |
-| Limpar o terminal | clear |
-| Finalizar a sessão do terminal | exit |
+| Cancelar o comando atual em funcionamento | `Ctrl + C` |
+| Pausar o comando atual, em primeiro plano ou segundo plano. | `Ctrl + Z` |
+| Fazer o logout da sessão atual | `Ctrl + D` |
+| Apagar uma palavra na linha atual | `Ctrl + W` |
+| Apagar a linha inteira | `Ctrl + U` |
+| Busca um comando recente | `Ctrl + R` |
+| Repetir o último comando | `!!` |
+| Listar diretórios e arquivos | `ls` |
+| Opção de lista longa com detalhes | `ls -l` |
+| Listar outro diretório que não o atual | `ls dir` |
+| Exibir histórico de comandos | `history` |
+| Criar diretórios | `mkdir [nome do diretório]` |
+| Remover diretórios com a opção -r | `rm -r` |
+| Mudar o diretório atual para outro | `cd dir` |
+| Mudar para o diretório raiz / | `cd /` |
+| Mudar para o diretório pessoal (home) | `cd ~` |
+| Retornar ao diretório anterior | `cd ..` |
+| Exibir o arquivo de ajuda de um comando | `--help` |
+| Exibir o manual do comando | `man [comando]` |
+| Renomear um diretório ou arquivo | `mv [antigo nome] [novo nome]` |
+| Mover um diretório para o diretório pessoal | `mv dir/ ~` |
+| Criar aquivos vazios no Linux | `touch [nome do arquivo]` |
+| Fazer cópia de um arquivo para outro diretório | `cp [nome do arquivo] [diretório]` |
+| Específico para remover diretórios | `rmdir` |
+| Remover arquivos | `rm [nome do arquivo]` |
+| Mostra o calendário do mês atual | `cal` |
+| Mostra o calendário de todos os meses do ano desejado | `cal 'ano'` |
+| Mostra a data atual | `date` |
+| Limpar o terminal | `clear` |
+| Finalizar a sessão do terminal | `exit` |
 
 ## Exercícios Práticos de Revisão:
 
@@ -75,3 +78,13 @@
 | Marcar texto | ALT + A |
 | Copiar o texto | ALT + 6 |
 | Colar o texto | CTRL + U |
+| Verificar ortografia | CTRL + T |
+| Substituir termos | CTRL + / |
+| Salvar o arquivo | CTRL + O |
+| Sair do nano | CTRL + X | 
+| Visualizar conteúdo do arquivo | `cat [nome do arquivo]` |
+| Inverter linhas do conteúdo | `tac [nome do arquivo]` |
+| Mostra as 10 primeiras linhas do arquivo | `head [nome do arquivo]` |
+| Mostra as 10 últimas linhas do arquivo | `tail [nome do arquivo]` |
+| Direcionar para um novo arquivo as linhas | >  (exemplo: `tail/head teste.txt > distros.txt`) |
+| Fazer uma busca por determinada palavra no arquivo | `grep [palavra]` |
