@@ -42,3 +42,21 @@
 | Remover arquivos | rm nomearquivo |
 | Limpar o terminal | clear |
 | Finalizar a sessão do terminal | exit |
+
+## Exercícios Práticos de Revisão:
+
+1. Abra o Terminal no Linux
+2. **Crie uma pasta** de nome "Ubuntu" dentro da pasta **Documentos**
+3. Mova a pasta **Ubuntu** para o diretório pessoal
+4. Crie um **arquivo vazio** de nome teste.txt dentro da **pasta Ubuntu**
+5. **Renomeie** o arquivo como linux.txt
+6. **Crie uma cópia** deste arquivo na pasta **Downloads**
+7. **Exiba todos os comandos** digitados no terminal
+8. Execute a **ajuda** do comando ls
+9. Execute o **manual** do comando mv
+10. **Pare** a execução do manual
+11. **Saia do terminal** utilizando sequência de teclas
+12. **Exclua** a pasta Ubuntu
+13. **Exclua** o arquivo linux.txt
+14. **Limpe** o terminal
+15. Utilize o comando para **sair** do terminal
