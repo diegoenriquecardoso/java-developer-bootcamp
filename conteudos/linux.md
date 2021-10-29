@@ -40,9 +40,6 @@
 | Fazer cópia de um arquivo para outro diretório | `cp [nome do arquivo] [diretório]` |
 | Específico para remover diretórios | `rmdir` |
 | Remover arquivos | `rm [nome do arquivo]` |
-| Mostra o calendário do mês atual | `cal` |
-| Mostra o calendário de todos os meses do ano desejado | `cal 'ano'` |
-| Mostra a data atual | `date` |
 | Limpar o terminal | `clear` |
 | Finalizar a sessão do terminal | `exit` |
 
@@ -82,9 +79,21 @@
 | Substituir termos | CTRL + / |
 | Salvar o arquivo | CTRL + O |
 | Sair do nano | CTRL + X | 
+| Mostra o calendário do mês atual | `cal` |
+| Mostra o calendário de todos os meses do ano desejado | `cal 'ano'` |
+| Mostra a data atual | `date` |
+| Exibe a função do comando | `whatis` |
+| Busca por arquivos e exibe o caminho até o arquivo | `find` |
 | Visualizar conteúdo do arquivo | `cat [nome do arquivo]` |
 | Inverter linhas do conteúdo | `tac [nome do arquivo]` |
 | Mostra as 10 primeiras linhas do arquivo | `head [nome do arquivo]` |
 | Mostra as 10 últimas linhas do arquivo | `tail [nome do arquivo]` |
-| Direcionar para um novo arquivo as linhas | >  (exemplo: `tail/head teste.txt > distros.txt`) |
+| Direcionar para um novo arquivo as linhas | `>`  (exemplo: `tail/head teste.txt > distros.txt`) |
+| Direciona a entrada de um arquivo para a saída de um comando | `<` |
+| Adicionar um novo arquivo as linhas | `>>`  (exemplo: `tail/head teste.txt >> distros.txt`) |
 | Fazer uma busca por determinada palavra no arquivo | `grep [palavra]` |
+| Usar dois comandos ao mesmo tempo | `usar o símbolo pipe` |
+| Paginação de textos | `more` (exemplo: `cat teste.txt` pipe `more`) |
+| Paginação de textos | `less` (exemplo: `cat teste.txt` pipe `less`) |
+| Permite usar dois comandos e separar suas saídas no terminal | `&` (exemplo: `cat teste.txt & teste2.txt`) |
+| Usado para que dois comandos sejam executados apenas se o primeiro for executado com sucesso | `&&` (exemplo: `cat teste.txt & teste2.txt`) |
