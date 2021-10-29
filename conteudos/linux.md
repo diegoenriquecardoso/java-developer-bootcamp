@@ -97,3 +97,23 @@
 | Paginação de textos | `less` (exemplo: `cat teste.txt` pipe `less`) |
 | Permite usar dois comandos e separar suas saídas no terminal | `&` (exemplo: `cat teste.txt & teste2.txt`) |
 | Usado para que dois comandos sejam executados apenas se o primeiro for executado com sucesso | `&&` (exemplo: `cat teste.txt & teste2.txt`) |
+
+## Exercícios Práticos de Revisão sobre arquivos .txt
+
+1. **Crie uma pasta** de nome **Exercícios** e acesse a mesma
+2. **Crie um arquivo** vazio de nome lista_nomes.txt
+3. Abra o arquivo com o **editor nano**
+4. Digite 20 nomes de pessoas conhecidas incluindo o seu, pulando linhas para cada nome inserido
+5. Salve o arquivo
+6. **Exiba os 10 primeiros** nomes da lista
+7. **Exiba os 10 últimos** nomes da lista
+8. **Procure** no texto o seu nome
+9. **Crie** um arquivo chamado setembro.txt com a saída do comando cal
+10. **Adicione o conteúdo** do arquivo setembro.txt ao arquivo lista_nomes.txt
+11. **Exiba** o arquivo lista_nomes.txt com paginação
+12. **Exiba** o caminho do arquivo setembro.txt
+13. **Exiba** o tipo do arquivo lista_nomes.txt
+14. **Exiba** a explicação do comando ls
+15. **Renomeie** o arquivo lista_nomes.txt para arquivo.txt
+16. **Limpe o terminal**
+17. **Saia do terminal**
