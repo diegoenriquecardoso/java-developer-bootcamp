@@ -117,3 +117,24 @@
 15. **Renomeie** o arquivo lista_nomes.txt para arquivo.txt
 16. **Limpe o terminal**
 17. **Saia do terminal**
+
+## Principais diretórios do Linux
+
+| Descrição | Diretório |
+| --- | --- |
+| Binários principais dos usuários | /bin/ |
+| Arquivos do sistema de Boot | /boot/ |
+| Arquivos de dispositivos | /dev/ |
+| Arquivos de configuração do sistema | /etc/ |
+| Diretório dos usuários comuns do sistema | /home/ |
+| Bibliotecas essenciais do sistema e os módulos do kernel | /lib/ |
+| Diretório de montagem e dispositivos | /media/ |
+| Diretório de montagem de dispositivos - mesmo que "media" | /mnt/ |
+| Instalação de programas não oficiais da distribuição ou por conta do usuário | /opt |
+| Armazena arquivos executáveis que representam comandos administrativos. Exemplo: shutdown | /sbin/ |
+| Diretório para dados de serviços fornecidos pelo sistema | /srv/ |
+| Diretório para arquivos temporários | /tmp/ |
+| Segunda hierarquia do sistema, onde ficam os usuários comuns do sistema e programas | /usr/ |
+| Diretório arquivos variáveis gerados pelos programas do sistema. Exemplo: logs, histórico da impressora, e-mail e cache | /var/ |
+| Diretório do usuário root - O usuário root tem o total poder sobre o sistema. Podendo instalar, desinstalar, configurar | /root/ |
+| Diretório virtural controlado pelo kernel | /proc/ |
