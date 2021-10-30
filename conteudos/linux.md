@@ -15,6 +15,7 @@
 
 | Função | Atalho / Comando |
 | --- | --- |
+| Acessar o terminal Linux | `Ctrl + Alt + T` |
 | Cancelar o comando atual em funcionamento | `Ctrl + C` |
 | Pausar o comando atual, em primeiro plano ou segundo plano. | `Ctrl + Z` |
 | Fazer o logout da sessão atual | `Ctrl + D` |
@@ -37,7 +38,7 @@
 | Renomear um diretório ou arquivo | `mv [antigo nome] [novo nome]` |
 | Mover um diretório para o diretório pessoal | `mv dir/ ~` |
 | Criar aquivos vazios no Linux | `touch [nome do arquivo]` |
-| Fazer cópia de um arquivo para outro diretório | `cp [nome do arquivo] [diretório]` |
+| Copiar um arquivo para outro diretório | `cp [nome do arquivo] [diretório]` |
 | Específico para remover diretórios | `rmdir` |
 | Remover arquivos | `rm [nome do arquivo]` |
 | Limpar o terminal | `clear` |
@@ -138,3 +139,23 @@
 | Diretório arquivos variáveis gerados pelos programas do sistema. Exemplo: logs, histórico da impressora, e-mail e cache | /var/ |
 | Diretório do usuário root - O usuário root tem o total poder sobre o sistema. Podendo instalar, desinstalar, configurar | /root/ |
 | Diretório virtural controlado pelo kernel | /proc/ |
+
+## Outros comandos
+
+| Descrição | Comando |
+| Arquivo de informações do processador | cat/proc/cpuinfo |
+| Exibir informações do processador | lscpu |
+| Arquivo de informações da memória | cat /proc/meminfo |
+| Exibir informações da memória física e virtual | free |
+| Exibir informações detalhadas sobre o hardware | lshw |
+| Exibir informações sobre hardware | lshw -short |
+| Exibir o nome do kernel do sistema | uname |
+| Exibir a versão do kernel | uname -r |
+| Exibir a arquitetura do kernel | uname -m |
+| Exibir a arquitetura do kernel | arch |
+| Exibir todas as placas PCI conectadas | lspci |
+| Exibir todos os dispositivos USB conectados | lsusb |
+| Exibir o epsaço de cada arquivo e pasta no diretório pessoal consome no hd | du -h ~ |
+| Reiniciar o sistema | reboot |
+| Reinicia o sistema | shutdown -r |
+| Desliga o sistema rapidamente | shutdown -h now |
