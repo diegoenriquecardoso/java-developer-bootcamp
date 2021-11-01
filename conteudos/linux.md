@@ -204,16 +204,17 @@ Seguimos as instruções e instalamos o pacote net-tools através do comando `su
 
 | Função | Comando |
 | --- | --- |
-| Para saber o IP da nossa máquina | `ifconfig` |
+| Exibir informações sobre a interface de rede e IP | `ifconfig` |
 | Semelhante ao executar como administrador do Windows | `sudo` |
-| Nome do computador na rede | `hostname` |
-| Endereço desse computador (IP) na rede | `hostname -I` |
-| Endereço de loopback na rede | `hostname -i` |
-| Mostra como estamos logados na rede | `who` |
+| Exibir informações sobre o Host | `hostname` |
+| Exibir endereço (IP) desse computador na rede | `hostname -I` |
+| Exibir o número de endereço loopback do host | `hostname -i` |
+| Exibir informações detalhadas sobre o usuário do computador de rede | `w` |
+| Exibir informações curtas sobre o usuário do computador na rede | `who` |
 | Como é o nome do usuário que estou logado na rede | `whoami` |
-| Protocolo de CNP, verificando se o host está ativo ou inativo | `ping` (ex: `ping: www.google.com` (para parar, Ctrl + Z)) |
+| Testar um host | `ping host` (ex: `ping: www.google.com` (para parar, Ctrl + Z)) |
 | Mostrar informações sobre DNS | `dig` (ex: `dig www.google.com`) |
-| Mostrar somente o endereço DNS | `dig [endereço] +short` (ex: `dig www.google.com +short`) |
-| Traçar a rota da nossa rede local até determinado host | `traceroute` |
+| Mostrar somente o endereço DNS | `dig host +short` (ex: `dig www.google.com +short`) |
+| Traçar a rota da nossa rede local até determinado host | `traceroute host` |
 | Saber informações sobre o site | `whois` (ex: `whois www.pudim.com.br`) |
-| Mostrar informações sobre o usuário logado | `finger` |
+| Exibir informações sobre o usuário do computador na rede | `finger` |
