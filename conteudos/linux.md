@@ -301,7 +301,7 @@ As permissões são especificadas para cada grupo
 | r / w / x | r / w / x | r / w / x |
 | 4 / 2 / 1 | 4 / 2 / 1 | 4 / 2 / 1 |
 
-![image](https://user-images.githubusercontent.com/81873935/139745784-bed0d0b6-1953-4e20-9439-9c8b0f3e75f5.png)
+![image](https://user-images.githubusercontent.com/81873935/139748352-fe80aeb3-7ef1-4835-84a5-31606eea5ffa.png)
 
 ## Exercícios sobre usuários, grupos e permissões
 
