@@ -194,7 +194,7 @@ As interfaces de rede no Linux estão localizadas no diretório `/dev` e a maior
 Exemplo: eth0 - Placa de rede Ethernet - cabeada
 A interface loopback é um tipo especial de interface que permite fazer conexões com você mesmo, com ela você pode testar vários programas de rede sem interferir em sua rede padrão, o endereço IP 127.0.0.1 foi escolhido para loopback.
 
-## Pacotes e suas funções
+## Comandos de redes e suas funções
 Comando que faz parte do **pacote net-tools**.
 Quando digitamos no terminal, uma mensagem é exibida, solicitando a instalação do pacote net-tools:
 
@@ -218,3 +218,23 @@ Seguimos as instruções e instalamos o pacote net-tools através do comando `su
 | Traçar a rota da nossa rede local até determinado host | `traceroute host` |
 | Saber informações sobre o site | `whois` (ex: `whois www.pudim.com.br`) |
 | Exibir informações sobre o usuário do computador na rede | `finger` |
+
+## Exercícios sobre redes
+
+1. **Crie** um arquivo de aularedes.txt
+2. **Exiba o número de IP** da rede no terminal
+3. **Adicione** a saída do comando anterior no arquivo aula redes.txt
+4. **Exiba o número de IP** Loopback no terminal
+5. **Adicione** a saída do comando anterior ao arquivo aula redes.txt
+6. **Exiba Informações DNS** sobre o host www.pudim.com.br
+7. **Adicione** a saída do comando anterior ao arquivo aula redes.txt
+8. **Exiba Informações do Usuário** logado na rede
+9. **Adicione** a saída do comando anterior ao arquivo aula redes.txt
+10. **Execute um teste no host** www.pudim.com.br com 6 pacotes
+11. **Adicione** a saída do comando anterior ao arquivo aula redex.txt
+12. **Trace a Rota** do seu computador até o host www.pudim.com.br
+13. **Adicione** a saída do comando anterior ao arquivo aula redes.txt
+14. **Exiba Informações sobre Interfaces de Rede e Endereços IP** no terminal 
+15. **Adicione** a saída do comando anterior ao arquivo aula redes.txt
+16. **Limpe** o terminal
+17. **Imprima** o arquivo aularedes.txt com paginação no terminal
