@@ -15,6 +15,8 @@
 
 | Função | Atalho / Comando |
 | --- | --- |
+| Determina uma saída no terminal | `echo` |
+| Exibirá a saída com caracteres de formatação  | `echo -e` |
 | Acessar o terminal Linux | `Ctrl + Alt + T` |
 | Cancelar o comando atual em funcionamento | `Ctrl + C` |
 | Pausar o comando atual, em primeiro plano ou segundo plano. | `Ctrl + Z` |
@@ -143,6 +145,7 @@
 ## Outros comandos
 
 | Descrição | Comando |
+| --- | --- |
 | Arquivo de informações do processador | cat/proc/cpuinfo |
 | Exibir informações do processador | lscpu |
 | Arquivo de informações da memória | cat /proc/meminfo |
