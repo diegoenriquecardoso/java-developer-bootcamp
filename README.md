@@ -18,3 +18,5 @@
 [2 - Estrutura de Dados e Algoritmo](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/estrutura-dados-algoritmo.md)
 
 [3 - Introdução ao Git e ao GitHub](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/git-github.md)
+
+[4 - Linux: Introdução ao Sistema Operacional](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/linux.md)
