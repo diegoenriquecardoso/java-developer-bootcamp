@@ -2,14 +2,15 @@
 
 ## O que é Linux?
 [![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
-> O Linux, da mesma forma que o Windows (Microsoft) e o Mac OS (Apple), é um sistema operacional baseado em Unix criado para desktops, mas que também é usado em servidores, smartphones, tablets e outros tipos de dispositivos, incluindo caixas bancários.  Ao contrário de seus concorrentes mais famosos, o Linux não foi desenvolvido para fins comerciais e seu software e desenvolvimento são feitos em código aberto, o que significa que qualquer pessoa pode criar e distribuir aplicativos para ele.
+
+O Linux, da mesma forma que o Windows (Microsoft) e o Mac OS (Apple), é um sistema operacional baseado em Unix criado para desktops, mas que também é usado em servidores, smartphones, tablets e outros tipos de dispositivos, incluindo caixas bancários.  Ao contrário de seus concorrentes mais famosos, o Linux não foi desenvolvido para fins comerciais e seu software e desenvolvimento são feitos em código aberto, o que significa que qualquer pessoa pode criar e distribuir aplicativos para ele.
 
 ## Qual a sua composição?
-> Linux é composto de um kernel, software criado para fazer a comunicação de outros programas e traduzi-los em comandos para a unidade de processamento e outros componentes eletrônicos. Para funcionar, porém, também é necessário aplicativos e bibliotecas específicas para eles.
+Linux é composto de um kernel, software criado para fazer a comunicação de outros programas e traduzi-los em comandos para a unidade de processamento e outros componentes eletrônicos. Para funcionar, porém, também é necessário aplicativos e bibliotecas específicas para eles.
 
 ## Como executar LINUX no WINDOWS com WSL 2
-> WLS trata-se de uma sigla para Windows Subsystem for Linux. Com o WSL, já era possível executar um ambiente Linux no Windows 10 para rodar utilitários e ferramentas do Linux.
-> Entre no site oficial da Microsoft, contendo o passo a passo para a instalação do WSL [clicando aqui!](https://docs.microsoft.com/pt-br/windows/wsl/install)
+WLS trata-se de uma sigla para Windows Subsystem for Linux. Com o WSL, já era possível executar um ambiente Linux no Windows 10 para rodar utilitários e ferramentas do Linux.
+Entre no site oficial da Microsoft, contendo o passo a passo para a instalação do WSL [clicando aqui!](https://docs.microsoft.com/pt-br/windows/wsl/install)
 
 ## Atalhos e Comandos no Terminal
 
@@ -66,7 +67,7 @@
 
 ## Lidando com arquivos .txt
 
-> Para modificar um arquivo .txt, execute o `nano (nome do arquivo)` e você será redirecionado ao local GNU nano.
+Para modificar um arquivo .txt, execute o `nano (nome do arquivo)` e você será redirecionado ao local GNU nano.
 
 ![image](https://user-images.githubusercontent.com/81873935/139365299-6a3f759d-b97e-4002-a4d6-53692149281a.png)
 
@@ -162,3 +163,33 @@
 | Reiniciar o sistema | reboot |
 | Reinicia o sistema | shutdown -r |
 | Desliga o sistema rapidamente | shutdown -h now |
+
+
+## Redes, protocolos e interfaces de redes
+
+### O que é Rede?
+> Rede de computadores é um conjunto de equipamentos interligados de maneira a trocarem informações e compartilharem recursos, como arquivos de dados gravados, impressoras, modems, softwares e outros equipamentos (Sousa, 1999)
+
+**Rede Wan**
+**Wide Area Network** ou **World Area Network** é uma rede geograficamente distribuída.
+
+**Rede Man**
+**Metropolitan Area Network** é uma rede metropolitana que interligam várias redes locais.
+
+**Rede Lan**
+**Local Area Network** é uma rede local de uma forma geral em um único prédio ou campus.
+
+### O que é **Protocolo**?
+
+Protocolo é a "linguagem" usada pelos dispositivos de uma rede de modo que eles consigam se entender (Torres, 2004). 
+
+**IP - Protocolo de Internet - Endereço IP:** números que identificam seu computador em uma rede
+**ICMP - (Internet Control Message Protocol):** tem por objetivo prover mensagens de controle na comunicação entre nós
+**DNS - Domain Name Server:** esse protocolo de aplicação tem por função identificar endereços IP e manter uma tabela com os endereços dos caminhos de algumas redes.
+
+### O que é **Interface de Rede**?
+
+Interface de rede é um software e/ou hardware que faz a comunicação em uma rede de computadores.
+As interfaces de rede no Linux estão localizadas no diretório /dev e a maioria é criada dinamicamente pelos softwares quando são requisitadas.
+Exemplo: eth0 - Placa de rede Ethernet - cabeada
+A interface loopback é um tipo especial de interface que permite fazer conexões com você mesmo, com ela você pode testar vários programas de rede sem interferir em sua rede padrão, o endereço IP 127.0.0.1 foi escolhido para loopback.
