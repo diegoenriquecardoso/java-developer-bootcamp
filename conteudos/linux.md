@@ -321,3 +321,31 @@ As permissões são especificadas para cada grupo
 14. **Mude as permissões** do arquivo teste.txt para 111
 15. **Saia do usuário root para seu computador
 16. **Tente exibir** o arquivo teste.txt no terminal
+
+## Compactação, descompactação e arquivamento
+Compactadores são programas que diminuem o tamanho de um arquivo ou diretório
+
+### Extensões
+As extensões identificam o tipo de um arquivo e o programa necessário para manipular o mesmo.
+Dezenas de extensões identificam arquivos compactados e quando um arquivo é compactado, uma extensão é adicionada ao nome do arquivo.
+
+Exemplo: se um arquivo é compactado pelo programa rar, o mesmo receberá a extensão .rar
+
+Ao descompactar, a extensão é removida do arquivo.
+
+### Compactadores
+
+| Nome do compactador | Comando de uso |
+| --- | --- |
+| gzip | `gzip [nome do arquivo]` |
+| gzip -9 (usa a compactação máxima do gzip)| `gzip -9 [nome do arquivo]` |
+| zip | `zip [nome arquivo zipado] [nome arquivo que ira compactar]` |
+| bzip2 | `bzip2 [nome do arquivo]`
+
+### Descompactadores
+
+| Nome do compactador | Comando de uso |
+| --- | --- |
+| gzip | `gunzip [nome do arquivo]` |
+| unzip | `unzip [nome do arquivo .zip]` |
+| bzip 2 | `bzip2 -d [arquivo.bz2]` |
