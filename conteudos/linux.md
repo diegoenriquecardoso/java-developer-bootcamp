@@ -43,7 +43,7 @@ Entre no site oficial da Microsoft, contendo o passo a passo para a instalação
 | Criar aquivos vazios no Linux | `touch [nome do arquivo]` |
 | Copiar um arquivo para outro diretório | `cp [nome do arquivo] [diretório]` |
 | Específico para remover diretórios | `rmdir` |
-| Remover arquivos | `rm [nome do arquivo]` |
+| Excluir arquivos | `rm [nome do arquivo]` |
 | Limpar o terminal | `clear` |
 | Finalizar a sessão do terminal | `exit` |
 
