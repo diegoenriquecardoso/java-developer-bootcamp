@@ -190,6 +190,30 @@ Protocolo é a "linguagem" usada pelos dispositivos de uma rede de modo que eles
 ### O que é **Interface de Rede**?
 
 Interface de rede é um software e/ou hardware que faz a comunicação em uma rede de computadores.
-As interfaces de rede no Linux estão localizadas no diretório /dev e a maioria é criada dinamicamente pelos softwares quando são requisitadas.
+As interfaces de rede no Linux estão localizadas no diretório `/dev` e a maioria é criada dinamicamente pelos softwares quando são requisitadas.
 Exemplo: eth0 - Placa de rede Ethernet - cabeada
 A interface loopback é um tipo especial de interface que permite fazer conexões com você mesmo, com ela você pode testar vários programas de rede sem interferir em sua rede padrão, o endereço IP 127.0.0.1 foi escolhido para loopback.
+
+## Pacotes e suas funções
+Comando que faz parte do **pacote net-tools**.
+Quando digitamos no terminal, uma mensagem é exibida, solicitando a instalação do pacote net-tools:
+
+![image](https://user-images.githubusercontent.com/81873935/139723629-d40e8c76-2f0f-4594-8c41-fadb45345e3a.png)
+
+Seguimos as instruções e instalamos o pacote net-tools através do comando `sudo apt installl net-tools`
+
+| Função | Comando |
+| --- | --- |
+| Para saber o IP da nossa máquina | `ifconfig` |
+| Semelhante ao executar como administrador do Windows | `sudo` |
+| Nome do computador na rede | `hostname` |
+| Endereço desse computador (IP) na rede | `hostname -I` |
+| Endereço de loopback na rede | `hostname -i` |
+| Mostra como estamos logados na rede | `who` |
+| Como é o nome do usuário que estou logado na rede | `whoami` |
+| Protocolo de CNP, verificando se o host está ativo ou inativo | `ping` (ex: `ping: www.google.com` (para parar, Ctrl + Z)) |
+| Mostrar informações sobre DNS | `dig` (ex: `dig www.google.com`) |
+| Mostrar somente o endereço DNS | `dig [endereço] +short` (ex: `dig www.google.com +short`) |
+| Traçar a rota da nossa rede local até determinado host | `traceroute` |
+| Saber informações sobre o site | `whois` (ex: `whois www.pudim.com.br`) |
+| Mostrar informações sobre o usuário logado | `finger` |
