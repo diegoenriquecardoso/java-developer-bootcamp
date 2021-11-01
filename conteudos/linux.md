@@ -240,14 +240,16 @@ Seguimos as instruções e instalamos o pacote net-tools através do comando `su
 17. **Imprima** o arquivo aularedes.txt com paginação no terminal
 
 
-## Controle de usuários, grupos e permissões
+## Controle de usuários
 
-**Usuário**: o usuário *root* é o usuário que possui mais privilégios (consegue instalar, acessar pasta, remover etc)
+### Usuário
+O usuário *root* é o usuário que possui mais privilégios (consegue instalar, acessar pasta, remover etc)
 
 | Função | Comando |
 | --- | --- |
-| Adicionar outro usuário | `adduser [nome de usuario]` (obs.: para adicionarmos um usuário, como root, utilizamos sudo > `sudo adduser [nome de usuário]`|
+| Adicionar um usuário | `adduser [nome de usuario]` (obs.: para adicionarmos um usuário, como root, utilizamos sudo > `sudo adduser [nome de usuário]`|
 | Trocar de usuário | `su` (ex: `su [nome de usuario que deseja acessar]` |
+| Trocar para usuário root | `sudo su` |
 | Alterar senha do usuário | `passwd [nome de usuario]` |
 | Exibir informações de login dos usuários | `lastlog` |
 | Exibir uma lista de entrada e saída do usuário no sistema | `last [nome de usuario]` |
@@ -255,3 +257,67 @@ Seguimos as instruções e instalamos o pacote net-tools através do comando `su
 | Exibir todos os identificadores do usuário | `id` |
 | Exibir todos os usuários | `cat /et/passwd/` |
 | Remover um usuário e a pasta pessoal do mesmo |`userdel -r [nome do usuario]` |
+
+### Grupos
+Grupos permitem organizar os usuários e definir as permissões de acesso a arquivos e diretórios mais facilmente.
+
+| Função | Comando |
+| --- | --- |
+| Exibir todos os grupos do sistema | `cat /etc/group` |
+| Exibir todos os grupos de um usuário | `groups` |
+| Criar um grupo | `addgroups [nome do grupo]`|
+| Adicionar um usuário a um grupo | `adduser [usuario] [grupo]` ou `gpasswd -a [usuario] [grupo]`|
+| Remover um usuário de um grupo | `gpasswd -d [usuario] [grupo]` |
+| Remover um grupo | `groupdel [grupo]` |
+
+**OBS.:** Caso o comando não seja executado, execute o comando como administrador, utilizando `sudo [comando]`. Exemplo: `sudo addgroups [nome do grupo]`
+
+### Permissões
+
+Permissões em arquivos e diretórios servem para restringir acessos como: leitura, escrita e execução, onde: 
+
+Leitura: `r`
+Escrita : `w`
+Execução: `x`
+Diretório: `d`
+Arquivo: `-`
+
+| Função | Comando |
+| --- | --- |
+| Verificar permissões de um diretório | `ls -lh` |
+| Mudar a permissão de um arquivo ou diretório | `chmod` |
+
+## Modo Octal 
+A máscara octal é composta por números sob a base 8 ou seja de 0 a 7 onde:
+
+O primeiro dígito representa o dono do ficheiro/diretório (u)
+O segundo dígito representa o grupo (g)
+O terceiro dígito representa os outros (o)
+
+As permissões são especificadas para cada grupo
+
+| User (owner) | Group | Other |
+| --- | --- | --- |
+| r / w / x | r / w / x | r / w / x |
+| 4 / 2 / 1 | 4 / 2 / 1 | 4 / 2 / 1 |
+
+![image](https://user-images.githubusercontent.com/81873935/139745784-bed0d0b6-1953-4e20-9439-9c8b0f3e75f5.png)
+
+## Exercícios sobre usuários, grupos e permissões
+
+1. **Crie um usuário** chamado teste
+2. **Crie um grupo** chamado grupoteste
+3. **Adicione o usuário** teste ao grupo grupoteste
+4. **Troque a senha** do usuário teste
+5. **Troque o usuário atual* para o usuário teste
+6. **Exiba os grupos** do usuário teste
+7. **Exiba todos os usuários** do sistema
+8. **Exiba todos os grupos** do sistema
+9. **Delete o usuário** teste
+10. **Delete o grupo** grupoteste
+11. **Troque** para o usuário root
+12. **Crie um arquivo** de nome teste.txt
+13. **Edite o arquivo** teste.txt com o nome introdução ao linux
+14. **Mude as permissões** do arquivo teste.txt para 111
+15. **Saia do usuário root para seu computador
+16. **Tente exibir** o arquivo teste.txt no terminal
