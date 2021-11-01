@@ -238,3 +238,20 @@ Seguimos as instruções e instalamos o pacote net-tools através do comando `su
 15. **Adicione** a saída do comando anterior ao arquivo aula redes.txt
 16. **Limpe** o terminal
 17. **Imprima** o arquivo aularedes.txt com paginação no terminal
+
+
+## Controle de usuários, grupos e permissões
+
+**Usuário**: o usuário *root* é o usuário que possui mais privilégios (consegue instalar, acessar pasta, remover etc)
+
+| Função | Comando |
+| --- | --- |
+| Adicionar outro usuário | `adduser [nome de usuario]` (obs.: para adicionarmos um usuário, como root, utilizamos sudo > `sudo adduser [nome de usuário]`|
+| Trocar de usuário | `su` (ex: `su [nome de usuario que deseja acessar]` |
+| Alterar senha do usuário | `passwd [nome de usuario]` |
+| Exibir informações de login dos usuários | `lastlog` |
+| Exibir uma lista de entrada e saída do usuário no sistema | `last [nome de usuario]` |
+| Exibir o nome do usuário atual logado no sistema | `logname` |
+| Exibir todos os identificadores do usuário | `id` |
+| Exibir todos os usuários | `cat /et/passwd/` |
+| Remover um usuário e a pasta pessoal do mesmo |`userdel -r [nome do usuario]` |
