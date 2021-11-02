@@ -18,6 +18,7 @@ Entre no site oficial da Microsoft, contendo o passo a passo para a instalação
 | --- | --- |
 | Determina uma saída no terminal | `echo` |
 | Exibirá a saída com caracteres de formatação  | `echo -e` |
+| Uma vaca irá falar o que você quiser | `cowsay [frase]`
 | Acessar o terminal Linux | `Ctrl + Alt + T` |
 | Cancelar o comando atual em funcionamento | `Ctrl + C` |
 | Pausar o comando atual, em primeiro plano ou segundo plano. | `Ctrl + Z` |
