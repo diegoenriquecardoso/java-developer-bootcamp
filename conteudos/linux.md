@@ -18,9 +18,6 @@ Entre no site oficial da Microsoft, contendo o passo a passo para a instalação
 | --- | --- |
 | Determina uma saída no terminal | `echo` |
 | Exibirá a saída com caracteres de formatação  | `echo -e` |
-| Uma vaca irá falar o que você quiser | `cowsay [frase]` |
-| Uma vaca "estragrada" irá falar o que você quiser | `cowsay -d [frase]` |
-| Uma vaca "dinheirista" irá falar o que você quiser | `cowsay -g [frase]` |
 | Acessar o terminal Linux | `Ctrl + Alt + T` |
 | Cancelar o comando atual em funcionamento | `Ctrl + C` |
 | Pausar o comando atual, em primeiro plano ou segundo plano. | `Ctrl + Z` |
@@ -49,6 +46,21 @@ Entre no site oficial da Microsoft, contendo o passo a passo para a instalação
 | Excluir arquivos | `rm [nome do arquivo]` |
 | Limpar o terminal | `clear` |
 | Finalizar a sessão do terminal | `exit` |
+
+## Comandos divertidos
+
+| Função | Comando |
+| --- | --- |
+| Uma vaca irá falar o que você quiser | `cowsay [frase]` |
+| Uma vaca "estragrada" irá exibir a frase desejada | `cowsay -d "frase]` |
+| Uma vaca "dinheirista" irá exibir a frase desejada | `cowsay -g "frase"` |
+| Uma vaca aprimorada irá exibir a frase desejada | `xcowsay "frase"` |
+| O mascote do Linux irá exibir a frase desejada | `cowsay -f tux "frase"` |
+| Uma vaca vestida de Darth Vader irá exibir a frase desejada | `cowsay -f vader "frase"` |
+| Um koala vestido de Darth Vader irá exibir a frase desejada | `cowsay -f vader-koala "frase"` |
+| Um dragão irá exibir a frase desejada | `cowsay -f dragon "frase"` |
+| Emite o efeito do filme "Matrix" | `cmatrix` |
+
 
 ## Exercícios Práticos de Revisão:
 
