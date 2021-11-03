@@ -46,6 +46,7 @@ Entre no site oficial da Microsoft, contendo o passo a passo para a instalação
 | Excluir arquivos | `rm [nome do arquivo]` |
 | Limpar o terminal | `clear` |
 | Finalizar a sessão do terminal | `exit` |
+| Organizar um arquivo de texto em ordem alfabética ou númerica | `sort` |
 
 ## Comandos Shutdown
 
