@@ -47,6 +47,16 @@ Entre no site oficial da Microsoft, contendo o passo a passo para a instalação
 | Limpar o terminal | `clear` |
 | Finalizar a sessão do terminal | `exit` |
 
+## Comandos Shutdown
+
+| Função | Comando |
+| --- | --- |
+| Cancelar o shutdown sendo executado | `-c` |
+| Desligar o sistema | `-h` |
+| Suspender o funcionamento da máquina | `-H` |
+| Desligar o sistema imediatamente | `sudo shutdown -h now` |
+| Reiniciar o sistema imediatamente | `sudo shutdown -r now` |
+
 ## Comandos divertidos
 
 | Função | Comando |
@@ -350,17 +360,37 @@ Ao descompactar, a extensão é removida do arquivo.
 
 ### Compactadores
 
-| Nome do compactador | Comando de uso |
-| --- | --- |
-| gzip | `gzip [nome do arquivo]` |
-| gzip -9 (usa a compactação máxima do gzip)| `gzip -9 [nome do arquivo]` |
-| zip | `zip [nome arquivo zipado] [nome arquivo que ira compactar]` |
-| bzip2 | `bzip2 [nome do arquivo]`
+| Nome do compactador | Comando de uso | Comando de descompactação |
+| --- | --- | --- |
+| gzip | `gzip [nome do arquivo]` | `gunzip [nome do arquivo]` |
+| gzip -9 (usa a compactação máxima do gzip)| `gzip -9 [nome do arquivo]` | `gunzip [nome do arquivo]` |
+| zip | `zip [nome arquivo zipado] [nome arquivo que ira compactar]` | `unzip [nome do arquivo .zip]` |
+| bzip2 | `bzip2 [nome do arquivo]` | `bzip2 -d [arquivo.bz2]` |
+| rar | `rar a [nome do arquivo]` | `rar x [arquivo.rar]` |
 
-### Descompactadores
+**Obs.: É necessário instalar alguns compactadores, como o rar. Nesse caso, basta digitar o comando `sudo apt install rar`**
 
-| Nome do compactador | Comando de uso |
-| --- | --- |
-| gzip | `gunzip [nome do arquivo]` |
-| unzip | `unzip [nome do arquivo .zip]` |
-| bzip 2 | `bzip2 -d [arquivo.bz2]` |
+### Arquivadores
+Um "arquivador" junta vários arquivos em um só, mas pode ser usado em conjunto com um compactador para armazenar arquivos compactados.
+
+| Nome do arquivador | Comando de uso | Comando de descompactação |
+| --- | --- | --- |
+| tar | `tar -cf [nome do arquivo que sera gerado] [arquivo(s) que serao arquivados]` | `tar -xvf [nome do arquivo.tar.gz]` | 
+
+## Exercícios sobre compactação, descompactação e arquivamento
+
+1. **Crie um arquivo** chamado compactar.txt
+2. **Edite** esse arquivo com os nomes dos compactadores
+3. **Compacta** esse arquivo com zip
+4. **Descompacte** o arquivo
+5. **Compacte** o arquivo com rar
+6. **Descompacte** o arquivo
+7. **Compacte** o arquivo com gzip
+8. **Descompacte** o arquivo
+9. **Compacte** o arquivo com bzip2
+10. **Descompacte** o arquivo
+11. **Realize o arquivamento** do arquivo com *tar*
+12. **Compacte** o arquivamento *tar* com gzip
+13. **Descompacte** o arquivo
+14. **Saia** do terminal
+15. **Exiba** o arquivo compactar.txt
