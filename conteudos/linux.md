@@ -57,6 +57,7 @@ Entre no site oficial da Microsoft, contendo o passo a passo para a instalação
 | Limpar o terminal | `clear` |
 | Finalizar a sessão do terminal | `exit` |
 | Organizar um arquivo de texto em ordem alfabética ou númerica | `sort` |
+| Pode ser usado para imprimir uma lista das variáveis de ambiente atuais | `env` |
 | Dar um nickname para algum comando | `alias` (ex.: `alias hh='history`) |
 
 ## Comandos divertidos
