@@ -421,6 +421,7 @@ rpm.pbone.net
 | Nome do gerenciador | Comando de instalação | Comando de atualização | Comando de remoção | Atualização do Sistema |
 | --- | --- | --- | --- | --- |
 | apt | `sudo apt install [pacote]` | `sudo apt upgrade [pacote]` | `sudo apt remove [pacote]` | `apt update && apt upgrade` |
+| rpm | `rpm -ivh [pacote.rpm]` | `rpm -U [pacote.rpm]` | `rpm -e [pacote.rpm` |
 
 | Nome do gerenciador | Comando de instalação | Comando de descrição do pacote | Comando de remoção |
 | dpkg | `sudo dpkg -i [pacote]` | `sudo dpkg -I [pacote.deb]` | `sudo dpkg -r [nomedopacote]` |
