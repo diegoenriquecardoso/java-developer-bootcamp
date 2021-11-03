@@ -404,3 +404,23 @@ Um "arquivador" junta vários arquivos em um só, mas pode ser usado em conjunto
 13. **Descompacte** o arquivo
 14. **Saia** do terminal
 15. **Exiba** o arquivo compactar.txt
+
+## Gerenciamento de Pacotes
+Pacotes são programas colocados dentro de um arquivo, identificados por sua extensão e incluem arquivos necessários para a instalação de programa.
+Existem pacotes com a extensão `.deb`, `.rpm` e outros.
+
+Gerenciadores de Pacotes são sistemas que possuem resolução automática de dependências entre pacotes, método fácil de instalação de pacote.
+Exemplos de gerenciadores: `dpgk`, `apt` e `yum`
+
+Site de pacotes: 
+pkgs.org
+rpm.pbone.net
+
+### Instalação
+
+| Nome do gerenciador | Comando de instalação | Comando de atualização | Comando de remoção | Atualização do Sistema |
+| --- | --- | --- | --- | --- |
+| apt | `sudo apt install [pacote]` | `sudo apt upgrade [pacote]` | `sudo apt remove [pacote]` | `apt update && apt upgrade` |
+
+| Nome do gerenciador | Comando de instalação | Comando de descrição do pacote | Comando de remoção |
+| dpkg | `sudo dpkg -i [pacote]` | `sudo dpkg -I [pacote.deb]` | `sudo dpkg -r [nomedopacote]` |
