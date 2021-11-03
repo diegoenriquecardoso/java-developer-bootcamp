@@ -425,4 +425,5 @@ rpm.pbone.net
 | yum | `sudo yum install [pacote]` | `sudo yum update [pacote]` | `sudo yum remove [pacote]` |
 
 | Nome do gerenciador | Comando de instalação | Comando de descrição do pacote | Comando de remoção |
+| --- | --- | --- | --- |
 | dpkg | `sudo dpkg -i [pacote]` | `sudo dpkg -I [pacote.deb]` | `sudo dpkg -r [nomedopacote]` |
