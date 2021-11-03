@@ -24,12 +24,22 @@ Entre no site oficial da Microsoft, contendo o passo a passo para a instalação
 | Fazer o logout da sessão atual | `Ctrl + D` |
 | Apagar uma palavra na linha atual | `Ctrl + W` |
 | Apagar a linha inteira | `Ctrl + U` |
+| Saber número de linhas em um arquivo | `nl [nome do arquivo]` |
+| Saber o número de linhas em branco também | `wl -l [nome do arquivo]` |
+| Saber quantas palavras tem em um arquivo | `wc -w [nome do arquivo]` |
+| Saber quantos caracteres tem em um arquivo | `wc -m [nome do arquivo]` |
+| Saber quantos bytes tem em um arquivo | `wc -c [nome do arquivo]` |
 | Busca um comando recente | `Ctrl + R` |
 | Repetir o último comando | `!!` |
 | Listar diretórios e arquivos | `ls` |
 | Opção de lista longa com detalhes | `ls -l` |
 | Listar outro diretório que não o atual | `ls dir` |
+| Exibir arquivos ocultos | `ls -a` |
+| Exibir arquivos com barra | `ls -F` |
+| Comparar arquivos | `cmp [nome do arquivo] [nome do arquivo]` |
+| Comparar arquivos | `diff [nome do arquivo] [nome do arquivo]` | 
 | Exibir histórico de comandos | `history` |
+| Apagar histórico de comandos | `history -c` |
 | Criar diretórios | `mkdir [nome do diretório]` |
 | Remover diretórios com a opção -r | `rm -r` |
 | Mudar o diretório atual para outro | `cd dir` |
@@ -47,16 +57,7 @@ Entre no site oficial da Microsoft, contendo o passo a passo para a instalação
 | Limpar o terminal | `clear` |
 | Finalizar a sessão do terminal | `exit` |
 | Organizar um arquivo de texto em ordem alfabética ou númerica | `sort` |
-
-## Comandos Shutdown
-
-| Função | Comando |
-| --- | --- |
-| Cancelar o shutdown sendo executado | `-c` |
-| Desligar o sistema | `-h` |
-| Suspender o funcionamento da máquina | `-H` |
-| Desligar o sistema imediatamente | `sudo shutdown -h now` |
-| Reiniciar o sistema imediatamente | `sudo shutdown -r now` |
+| Dar um nickname para algum comando | `alias` (ex.: `alias hh='history`) |
 
 ## Comandos divertidos
 
@@ -71,7 +72,6 @@ Entre no site oficial da Microsoft, contendo o passo a passo para a instalação
 | Um koala vestido de Darth Vader irá exibir a frase desejada | `cowsay -f vader-koala "frase"` |
 | Um dragão irá exibir a frase desejada | `cowsay -f dragon "frase"` |
 | Emite o efeito do filme "Matrix" | `cmatrix` |
-
 
 ## Exercícios Práticos de Revisão:
 
@@ -127,6 +127,7 @@ Para modificar um arquivo .txt, execute o `nano (nome do arquivo)` e você será
 | Paginação de textos | `less` (exemplo: `cat teste.txt` pipe `less`) |
 | Permite usar dois comandos e separar suas saídas no terminal | `&` (exemplo: `cat teste.txt & teste2.txt`) |
 | Usado para que dois comandos sejam executados apenas se o primeiro for executado com sucesso | `&&` (exemplo: `cat teste.txt & teste2.txt`) |
+|  |  |
 
 ## Exercícios Práticos de Revisão sobre arquivos .txt
 
@@ -189,7 +190,15 @@ Para modificar um arquivo .txt, execute o `nano (nome do arquivo)` e você será
 | Reiniciar o sistema | reboot |
 | Reinicia o sistema | shutdown -r |
 | Desliga o sistema rapidamente | shutdown -h now |
-
+| Cancelar o shutdown sendo executado | `-c` |
+| Desligar o sistema | `-h` |
+| Suspender o funcionamento da máquina | `-H` |
+| Desligar o sistema imediatamente | `sudo shutdown -h now` |
+| Reiniciar o sistema imediatamente | `sudo shutdown -r now` |
+| Informações sobre reinicialização do sistema | `last reboot` |
+| Mostrar as tabelas de roteamento do kernel | `route -n` |
+| Mostrar o tempo de processo de um comando | `time [comando]` |
+| Tempo que o sistema está rodando | `uptime` |
 
 ## Redes, protocolos e interfaces de redes
 
@@ -241,7 +250,7 @@ Seguimos as instruções e instalamos o pacote net-tools através do comando `su
 | Testar um host | `ping host` (ex: `ping: www.google.com` (para parar, Ctrl + Z)) |
 | Mostrar informações sobre DNS | `dig` (ex: `dig www.google.com`) |
 | Mostrar somente o endereço DNS | `dig host +short` (ex: `dig www.google.com +short`) |
-| Traçar a rota da nossa rede local até determinado host | `traceroute host` |
+| Traçar a rota da nossa rede local até determinado host | `traceroute host` (ou trc)|
 | Saber informações sobre o site | `whois` (ex: `whois www.pudim.com.br`) |
 | Exibir informações sobre o usuário do computador na rede | `finger` |
 
