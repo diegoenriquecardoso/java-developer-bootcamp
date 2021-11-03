@@ -366,7 +366,7 @@ Ao descompactar, a extensão é removida do arquivo.
 | gzip -9 (usa a compactação máxima do gzip)| `gzip -9 [nome do arquivo]` | `gunzip [nome do arquivo]` |
 | zip | `zip [nome arquivo zipado] [nome arquivo que ira compactar]` | `unzip [nome do arquivo .zip]` |
 | bzip2 | `bzip2 [nome do arquivo]` | `bzip2 -d [arquivo.bz2]` |
-| rar | `rar a [nome do arquivo]` | `rar x [arquivo.rar]` |
+| rar | `rar a [nome do arquivo que será gerado] [nome do arquivo a ser compactado]` | `rar x [arquivo.rar]` |
 
 **Obs.: É necessário instalar alguns compactadores, como o rar. Nesse caso, basta digitar o comando `sudo apt install rar`**
 
@@ -375,7 +375,7 @@ Um "arquivador" junta vários arquivos em um só, mas pode ser usado em conjunto
 
 | Nome do arquivador | Comando de uso | Comando de descompactação |
 | --- | --- | --- |
-| tar | `tar -cf [nome do arquivo que sera gerado] [arquivo(s) que serao arquivados]` | `tar -xvf [nome do arquivo.tar.gz]` | 
+| tar | `tar -cf [nome do arquivo que será gerado] [arquivo(s) que serão arquivados]` | `tar -xvf [nome do arquivo.tar.gz]` | 
 
 ## Exercícios sobre compactação, descompactação e arquivamento
 
