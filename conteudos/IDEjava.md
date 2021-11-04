@@ -25,3 +25,42 @@ O OpenJDK (Kit de Desenvolvimento Java Aberto) é uma  implementação gratuita 
 3. Confirme se realmente foi instalado com sucesso:
 
 `java -version`
+
+## ☕ Configurando ambiente JAVA_HOME:
+
+1. Verificar o caminho da instalação do Java:
+
+`sudo update-alternatives --config java`
+
+2. Copie o caminho que aparecerá no terminal, no meu caso:
+
+`/usr/lib/jvm/java-11-openjdk-amd64/bin/java`
+
+3. Vamos editar o arquivo .bashrc:
+
+`sudo gedit ~/.bashrc`
+
+4. Copie o código abaixo e cole no final do arquivo .bashrc. 
+
+*IMPORTANTE: cuidado para não alterar nada no arquivo além de apenas colar no final do mesmo o que vou te disponibilizar a seguir.*
+
+*JAVA_HOME = aqui você coloca o caminho do tópico 4.2, tirando o /bin/java*
+
+`JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
+export JAVA_HOME
+export PATH=$PATH:$JAVA_HOME`
+
+4.3. Salve o arquivo
+
+4.4. Vamos conferir se a alteração ficou salva:
+
+`cat ~/.bashrc`
+
+5. Feche o terminal e abra novamente
+
+6. Vamos conferir mais uma vez se o Java está instalado na nossa máquina
+
+`java --version`
+
+<p align="right"><em>Créditos: <a href="https://www.youtube.com/watch?v=jARiy3DZdwg">DevSuperior</a></em></p>
+  
