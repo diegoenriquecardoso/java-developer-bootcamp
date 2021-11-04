@@ -43,4 +43,4 @@ https://git-scm.com/downloads
 | Checar o que houve nas alterações | git diff | git diff --name only |
 | Criar arquivos sem conteúdo | echo > | touch |
 
-[<p align="center"> Conteúdo anterior](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/estrutura-dados-algoritmo.md) | [Próximo conteúdo](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/linux.md)
+[<p align="center"> ⬅️ Conteúdo anterior](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/estrutura-dados-algoritmo.md) | [Próximo conteúdo ➡️](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/linux.md)
