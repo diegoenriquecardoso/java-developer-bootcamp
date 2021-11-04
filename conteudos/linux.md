@@ -428,3 +428,6 @@ rpm.pbone.net
 | Nome do gerenciador | Comando de instalação | Comando de descrição do pacote | Comando de remoção |
 | --- | --- | --- | --- |
 | dpkg | `sudo dpkg -i [pacote]` | `sudo dpkg -I [pacote.deb]` | `sudo dpkg -r [nomedopacote]` |
+
+## Certificado:
+![Linux Introducao ao sistema operacional](https://user-images.githubusercontent.com/81873935/140320651-e69fd231-52c6-42e5-8a01-b575c26e7899.png)
