@@ -9,7 +9,7 @@ IDE, ou ambiente de desenvolvimento integrado, é um software que combina ferram
 
 Neste guia aprenderemos a instalar o *OpenJDK* no Linux, instalar o *Eclipse* e também aprenderemos a instalação di *Git*.
 
-## 🔺 Instalação OpenJDK no Linux
+## ⬇️ Instalação OpenJDK no Linux
 
 O OpenJDK (Kit de Desenvolvimento Java Aberto) é uma  implementação gratuita e de código aberto da linguagem de programação  Java.  A implementação está licenciada sob a GNU General Public License  (GPL) com uma exceção de vinculação. JDK = JRE + JVM
 
@@ -26,7 +26,7 @@ O OpenJDK (Kit de Desenvolvimento Java Aberto) é uma  implementação gratuita 
 
 `java -version`
 
-## 🔺 Configurando ambiente JAVA_HOME:
+## ⬇️ Configurando ambiente JAVA_HOME:
 
 1. Verificar o caminho da instalação do Java:
 
@@ -64,7 +64,7 @@ export PATH=$PATH:$JAVA_HOME`
 
 <p align="right"><em>Créditos: <a href="https://www.youtube.com/watch?v=jARiy3DZdwg">DevSuperior</a></em></p>
   
-## 🔺 Instalação Eclipse
+## ⬇️ Instalação Eclipse
 
 1. Entre no site oficial do Eclipse Foundation e faça o **<a href="https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2021-06/R/eclipse-inst-jre-linux64.tar.gz">Download</a>**. *(Obs.: O site já identifica o sistema operacional)*
 
@@ -85,3 +85,24 @@ export PATH=$PATH:$JAVA_HOME`
 9. Launch
 
 10. Intalação concluída!
+
+## ⬇️ Instalação IntelliJ IDEA Community
+
+1. Entre no site ofical do <a href="https://www.jetbrains.com/idea/download/#section=windows">**INTELLIJ**</a>
+
+2. Escolha a opção Community e faça o download 
+
+3. Descompacte a pasta e vamos para o terminal
+
+4. Abra o terminal (Ctrl + Alt +  t) e entre no diretório que você descompactou 
+<em>No meu caso, na pasta Downloads Ideal</em>
+
+`cd Downloads/IdealC`
+
+5. Entre na pasta bin
+
+`cd bin`
+
+6. Execute o arquivo de instalação idea.sh
+
+`./idea.sh`
