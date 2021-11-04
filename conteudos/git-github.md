@@ -1,4 +1,4 @@
-# 💻 Introdução ao Git e ao GitHub
+# <p align="center"> 💻 Introdução ao Git e ao GitHub 💻
 
 ## O que é Git? 
 [![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
