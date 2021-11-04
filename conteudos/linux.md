@@ -1,4 +1,4 @@
-# 🐧 Linux: Introdução ao sistema operacional
+# <p align="center"> 🐧 Linux: Introdução ao sistema operacional 🐧
 
 ## O que é Linux?
 [![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
