@@ -185,3 +185,23 @@ Aqui no windows, vamos fazer o download do **OpenJDK Zulu**.
 `java -version`
 
 <p align="right">Créditos: <a href="https://www.youtube.com/watch?v=laC0fiI-IOM">DevSuperior</a></p>
+
+### ⬇️ Instalação Eclipse
+
+1. Acessar o site oficial do <a href="https://www.eclipse.org/downloads/">**ECLIPSE**</a>
+
+2. Fazer o download do instalador
+
+3. Escolha segunda a opção: Eclipse IDE for Enterprise Java and Web Developers
+
+4. Clique no folder da primeira opção (Java 11 + VM) e selecione o JDK que instalamos na nossa máquina
+
+5. Mantenha as opções "create start menu entry" e "create desktop shortcut"
+
+6. Install
+
+7. Accept now
+
+8. Launch
+
+9. Instalação concluída
