@@ -175,22 +175,22 @@ Para modificar um arquivo .txt, execute o `nano (nome do arquivo)` e você será
 
 | Descrição | Comando |
 | --- | --- |
-| Arquivo de informações do processador | cat/proc/cpuinfo |
-| Exibir informações do processador | lscpu |
-| Arquivo de informações da memória | cat /proc/meminfo |
-| Exibir informações da memória física e virtual | free |
-| Exibir informações detalhadas sobre o hardware | lshw |
-| Exibir informações sobre hardware | lshw -short |
-| Exibir o nome do kernel do sistema | uname |
-| Exibir a versão do kernel | uname -r |
-| Exibir a arquitetura do kernel | uname -m |
-| Exibir a arquitetura do kernel | arch |
-| Exibir todas as placas PCI conectadas | lspci |
-| Exibir todos os dispositivos USB conectados | lsusb |
-| Exibir o epsaço de cada arquivo e pasta no diretório pessoal consome no hd | du -h ~ |
-| Reiniciar o sistema | reboot |
-| Reinicia o sistema | shutdown -r |
-| Desliga o sistema rapidamente | shutdown -h now |
+| Arquivo de informações do processador | `cat/proc/cpuinfo` |
+| Exibir informações do processador | `lscpu` |
+| Arquivo de informações da memória | `cat /proc/meminfo` |
+| Exibir informações da memória física e virtual | `free` |
+| Exibir informações detalhadas sobre o hardware | `lshw` |
+| Exibir informações sobre hardware | `lshw -short` |
+| Exibir o nome do kernel do sistema | `uname` |
+| Exibir a versão do kernel | `uname -r` |
+| Exibir a arquitetura do kernel | `uname -m` |
+| Exibir a arquitetura do kernel | `arch` |
+| Exibir todas as placas PCI conectadas | `lspci` |
+| Exibir todos os dispositivos USB conectados | `lsusb` |
+| Exibir o epsaço de cada arquivo e pasta no diretório pessoal consome no hd | `du -h ~` |
+| Reiniciar o sistema | `reboot` |
+| Reinicia o sistema | shutdown `-r` |
+| Desliga o sistema rapidamente | `shutdown -h now` |
 | Cancelar o shutdown sendo executado | `-c` |
 | Desligar o sistema | `-h` |
 | Suspender o funcionamento da máquina | `-H` |
