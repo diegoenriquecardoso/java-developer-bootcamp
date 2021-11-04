@@ -64,3 +64,24 @@ export PATH=$PATH:$JAVA_HOME`
 
 <p align="right"><em>Créditos: <a href="https://www.youtube.com/watch?v=jARiy3DZdwg">DevSuperior</a></em></p>
   
+## 🔺 Instalação Eclipse
+
+1. Entre no site oficial do Eclipse Foundation e faça o **<a href="https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2021-06/R/eclipse-inst-jre-linux64.tar.gz">Download</a>**. *(Obs.: O site já identifica o sistema operacional)*
+
+2. Descompacte a pasta
+
+3. Procure o arquivo eclipse-inst e execute
+
+4. Escolha segunda a opção: Eclipse IDE for Enterprise Java and Web Developers
+
+5. Clique no folder da primeira opção e selecione o JDK que instalamos na nossa máquina.
+
+6. Mantenha as opções "create start menu entry" e "create desktop shortcut"
+
+7. Install
+
+8. Accept now
+
+9. Launch
+
+10. Intalação concluída!
