@@ -1,4 +1,4 @@
-# 💻 Dominando IDE's Java
+# <p align="center"> 💻 Dominando IDE's Java 💻
 
 ## O que é IDE?
 [![IntelliJIDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](#)
