@@ -205,3 +205,30 @@ Aqui no windows, vamos fazer o download do **OpenJDK Zulu**.
 8. Launch
 
 9. Instalação concluída
+
+### ⬇️ Instalação IntelliJ IDEA Community
+
+1. Entre no site ofical do <a href="https://www.jetbrains.com/idea/download/#section=windows">**INTELLIJ**</a>
+
+2. Escolha a opção Community e faça o download 
+
+3. Siga com next
+
+4. Na opção Installation Options, deixe selecionado as opções:
+	4.1 64-bit launcher (caso seu sistema seja 64-bit, caso não, selecione 32-bit)
+	4.2 Add "Open Folder as Project"
+	4.3 .java - .groovy - .kt - .kts
+	4.4 Add lauchers dir to the PATH
+	4.5 Next
+
+5. Install
+
+6. Para finalizar a instalação, escolha a opção reebot later
+
+7. Com o IntelliJ já instalado, vamos iniciar:
+
+​	7.1 Aceite os termos: I confirm that I have... >> Confirm
+
+​	7.2 Data Sharing >> Send Anonymous Statistics
+
+8. IDE pronta para uso!
