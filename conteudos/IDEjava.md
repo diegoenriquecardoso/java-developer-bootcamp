@@ -9,7 +9,7 @@ IDE, ou ambiente de desenvolvimento integrado, é um software que combina ferram
 
 Neste guia aprenderemos a instalar o *OpenJDK* no Linux, instalar o *Eclipse* e também aprenderemos a instalação di *Git*.
 
-## 🐧 Instalação OpenJDK no Linux
+## 🔺 Instalação OpenJDK no Linux
 
 O OpenJDK (Kit de Desenvolvimento Java Aberto) é uma  implementação gratuita e de código aberto da linguagem de programação  Java.  A implementação está licenciada sob a GNU General Public License  (GPL) com uma exceção de vinculação. JDK = JRE + JVM
 
@@ -26,7 +26,7 @@ O OpenJDK (Kit de Desenvolvimento Java Aberto) é uma  implementação gratuita 
 
 `java -version`
 
-## ☕ Configurando ambiente JAVA_HOME:
+## 🔺 Configurando ambiente JAVA_HOME:
 
 1. Verificar o caminho da instalação do Java:
 
