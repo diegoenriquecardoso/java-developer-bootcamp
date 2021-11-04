@@ -270,4 +270,4 @@ Aqui no windows, vamos fazer o download do **OpenJDK Zulu**.
 
 10. Pronto, git instalado e configurado com sucesso!
 
-[<p align="center"> Conteúdo anterior](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/linux.md)
+[<p align="center"> ⬅️ Conteúdo anterior](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/linux.md)
