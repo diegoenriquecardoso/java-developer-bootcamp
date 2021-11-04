@@ -9,6 +9,7 @@ IDE, ou ambiente de desenvolvimento integrado, é um software que combina ferram
 
 Neste guia aprenderemos a instalar o *OpenJDK* no Linux, instalar o *Eclipse* e também aprenderemos a instalação di *Git*.
 
+## 🐧 LINUX
 ## ⬇️ Instalação OpenJDK no Linux
 
 O OpenJDK (Kit de Desenvolvimento Java Aberto) é uma  implementação gratuita e de código aberto da linguagem de programação  Java.  A implementação está licenciada sob a GNU General Public License  (GPL) com uma exceção de vinculação. JDK = JRE + JVM
@@ -18,7 +19,7 @@ O OpenJDK (Kit de Desenvolvimento Java Aberto) é uma  implementação gratuita 
 `java -version`
 
 2. Para instalar o openJDK-11, digite no terminal:
-<em>A versão mais atual LTS é do Java 11, que terá seu suporte  estendido até Setembro de 2022. Este tipo de suporte iniciou no Java 8  que será mantido até 2023.</em>
+A versão mais atual LTS é do Java 11, que terá seu suporte  estendido até Setembro de 2022. Este tipo de suporte iniciou no Java 8  que será mantido até 2023.
 
 `sudo apt-get install openjdk-11-jdk`
 
@@ -62,7 +63,7 @@ export PATH=$PATH:$JAVA_HOME`
 
 `java --version`
 
-<p align="right"><em>Créditos: <a href="https://www.youtube.com/watch?v=jARiy3DZdwg">DevSuperior</a></em></p>
+<p align="right">Créditos: <a href="https://www.youtube.com/watch?v=jARiy3DZdwg">DevSuperior</a></p>
   
 ## ⬇️ Instalação Eclipse
 
@@ -95,7 +96,7 @@ export PATH=$PATH:$JAVA_HOME`
 3. Descompacte a pasta e vamos para o terminal
 
 4. Abra o terminal (Ctrl + Alt +  t) e entre no diretório que você descompactou 
-<em>No meu caso, na pasta Downloads Ideal</em>
+No meu caso, na pasta Downloads Ideal
 
 `cd Downloads/IdealC`
 
@@ -137,3 +138,50 @@ export PATH=$PATH:$JAVA_HOME`
 `git config --list`
 
 5. Pronto, git instalado e configurado com sucesso!
+
+## WINDOWS
+### Instalação JDK Zulu
+
+Aqui no windows, vamos fazer o download do **OpenJDK Zulu**.
+*As compilações do Azul Zulu do OpenJDK são compilações de código aberto, testadas pelo TCK e certificadas do OpenJDK. O Zulu Blue está disponível para uma ampla variedade de plataformas de hardware e sistemas operacionais. A documentação do Azul Zulu inclui notas de lançamento, um guia de instalação e licenças de terceiros.*
+
+1. Entre no <a href="https://www.azul.com/downloads/?package=jdk">SITE AZUL</a>
+
+2. Faça o download do arquivo .zip do JDK 11.0.11+9. No meu caso, o x86 64-bit
+
+3. Vá no drive C://Arquivo de Programas
+
+4. Caso não tenha um diretório com o nome Java, crie
+
+5.  Entre neste diretório e descompacte o download do zip JDK Zulu 11.0.11+9 neste diretório
+
+6. Vamos configurar o ambiente JAVA_HOME:
+
+​	6.1  Menu iniciar -> Editar as varáveis de ambiente do sistema
+
+​	6.2 Irá abrir a janela Propriedades do Sistema, escolha a aba Avançado, em seguida clique em variáveis de Ambiente
+
+​	6.3 Na janela Variáveis de Ambiente,  crie um novo Variáveis do sistema
+
+​	6.4 Abrirá uma jabela: Nova Variável de Sistema.
+
+​	6.5 Nome da variável: JAVA_HOME
+
+​	6.6 Valor da variável: em seguida OK.
+​	O valor da variável é o caminho do diretório que você descompactou o zip JDK Zulu 11.0.11+9 no passo 5 
+
+​	6.7 Na mesma janela Variáveis do Sistema, localize a variável Path, selecione e clique a opção Editar...
+
+​	6.8 Clique na opção Novo e cole o mesmo caminho do passo 5 acrescentando \bin
+
+​	6.9 Continue com o path selecionado e clique na opção Mover para Cima até chegar no topo
+
+7. Pronto, finalizada a configuração. Próximo passo é conferir se está instalado tudo certinho
+
+8. Abra o Prompt de Comando: Menu iniciar -> cmd
+
+9. Vamos conferir mais uma vez se o Java está instalado na nossa máquina
+
+`java -version`
+
+<p align="right">Créditos: <a href="https://www.youtube.com/watch?v=laC0fiI-IOM">DevSuperior</a></p>
