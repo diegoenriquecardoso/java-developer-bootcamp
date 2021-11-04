@@ -1,4 +1,4 @@
-# 💻 Estrutura de Dados e Algoritmos
+# <p align="center"> 💻 Estrutura de Dados e Algoritmos 💻
 
 ## O que é Estrutura de Dados?
 Estrutura de dados é o ramo da computação que estuda os diversos mecanismos de organização de dados para atender aos diferentes requisitos de processamento.
