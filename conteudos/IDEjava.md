@@ -50,9 +50,9 @@ O OpenJDK (Kit de Desenvolvimento Java Aberto) é uma  implementação gratuita 
 export JAVA_HOME
 export PATH=$PATH:$JAVA_HOME`
 
-4.3. Salve o arquivo
+    4.3. Salve o arquivo
 
-4.4. Vamos conferir se a alteração ficou salva:
+    4.4. Vamos conferir se a alteração ficou salva:
 
 `cat ~/.bashrc`
 
@@ -106,3 +106,34 @@ export PATH=$PATH:$JAVA_HOME`
 6. Execute o arquivo de instalação idea.sh
 
 `./idea.sh`
+
+## ⬇️ Instalação Git
+
+1. Abra o terminal (Ctrl + Alt + t) e vamos verificar se temos o git instalado:
+
+`git --version`
+
+2. Execute o comando:
+
+`sudo apt-get install git-all`
+
+3. Confirme novamente se o git realmente está instalado:
+
+`git --version`
+
+4. Vamos começar as configurações iniciais:
+
+​	4.1 Cofigurar o nome de usuário
+
+`git config --global user.name "Seu nome"`
+
+​	4.2 Configurar o endereço de e-mail:
+​	*É de suma importância que o ENDEREÇO DE E-MAIL SEJA O MESMO DO GITHUB afim de evitar conflitos!*
+
+`git config --global user.email seuemail@email.br`
+
+​	4.3 Vamos conferir a lista de configurações:
+
+`git config --list`
+
+5. Pronto, git instalado e configurado com sucesso!
