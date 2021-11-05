@@ -22,3 +22,5 @@
 [4 - Linux: Introdução ao Sistema Operacional](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/linux.md)
 
 [5 - Dominando IDE's Java](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/IDEjava.md)
+  
+[6 - Introdução ao Ecossistema Java](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/ecossistemajava.md)
