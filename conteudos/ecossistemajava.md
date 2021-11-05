@@ -67,3 +67,14 @@ sudo apt install curl
 ```
 curl -sL https://github.com/shyiko/jabba/raw/master/install.sh | bash && . ~/.jabba/jabba.sh
 ```
+
+3. Pronto, instalação concluída.
+  
+## Comandos
+  
+| Função | Comando |
+| --- | --- |
+| Listar as versões e implementações do JDK disponíveis | `jabba ls-remote` |
+| Para instalar | `jabba install openjdk@1.11` |
+| Para fazer a troca da versão do java | `jabba use openjdk@1.11` |
+| Saber a versão do java | `java -version` |
