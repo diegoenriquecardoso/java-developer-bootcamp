@@ -109,3 +109,8 @@ public class PrimeiroPrograma {
     }
 }
 ```
+
+## Palavras reservadas
+  Não podemos usar as seguintes palavras para a definição de um nome, de um método, classe ou atributo.
+  
+![image](https://user-images.githubusercontent.com/81873935/140569641-94671bad-0797-4ca8-980c-8ada2ec5a352.png)
