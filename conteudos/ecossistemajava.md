@@ -54,27 +54,14 @@
   
 ▫️ **Java ME (Java Micro Edition):** contém todas as especificações para desenvolvimento de programas para dispositivos pequenos como celulares, PDAs etc.
 
-## 🐧 LINUX
-## ⬇️ Instalação JVM no Linux
-1. Para instalar o curl, digite no terminal:
-
-```
-sudo apt install curl
-```
-
-2. Instalando Java Version Manager (JVM):
-
-```
-curl -sL https://github.com/shyiko/jabba/raw/master/install.sh | bash && . ~/.jabba/jabba.sh
-```
-
-3. Pronto, instalação concluída.
+## Primeiro Programa Java ☕
   
-## Comandos
-  
-| Função | Comando |
-| --- | --- |
-| Listar as versões e implementações do JDK disponíveis | `jabba ls-remote` |
-| Para instalar | `jabba install openjdk@1.11` |
-| Para fazer a troca da versão do java | `jabba use openjdk@1.11` |
-| Saber a versão do java | `java -version` |
+`package com.dio;
+
+public class PrimeiroPrograma {
+
+    public static void main(String[] args) {
+        System.out.println("´Hello World!");
+    }
+
+}
