@@ -95,7 +95,8 @@ O VSCODE irá gerar automaticamente uma public static void name, onde substituir
 
 8. Temos então, o nosso primeiro Programa em Java, imprimindo 'Hello World!"
   
-  ![image](https://user-images.githubusercontent.com/81873935/140568698-33701ae8-7abc-4e23-8e68-e12e3901fce2.png)
+![image](https://user-images.githubusercontent.com/81873935/140569274-522f1e0b-faf9-447c-81f0-e10247f90c7a.png)
+
 
 *código para cópia:*
 ```
