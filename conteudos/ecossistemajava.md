@@ -53,3 +53,11 @@
 ▫️ **Java EE (Java Enterprise Edition)**: contém todas as especificações do Java SE e um número de programas úteis para que executem em servidores. Em 2019 foi nomeado para Jakarta EE.
   
 ▫️ **Java ME (Java Micro Edition):** contém todas as especificações para desenvolvimento de programas para dispositivos pequenos como celulares, PDAs etc.
+
+## 🐧 LINUX
+## ⬇️ Instalação JVM no Linux
+1. Para instalar o JVM, digite no terminal:
+
+```
+sudo apt install curl
+```
