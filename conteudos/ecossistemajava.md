@@ -16,3 +16,14 @@
 > "Java é uma linguagem de programação e plataforma computacional lançada pela primeira vez pela Sun Microsystems em 1995". **Oracle**, 2021. 
 > 
 > Disponível em <https://www.java.com/pt-BR/download/help/whatis_java.html>
+
+## Características
+  ✔️ Compilada
+  
+  ✔️ Interpretada
+  
+  ✔️ Fortemente tipada
+  
+  ✔️ Linguagem de alto nível
+  
+  ✔️ Executada em uma máquina virtual - JVM (Java Virtual Machine)
