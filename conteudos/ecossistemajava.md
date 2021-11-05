@@ -27,3 +27,6 @@
   ✔️ Linguagem de alto nível
   
   ✔️ Executada em uma máquina virtual - JVM (Java Virtual Machine)
+  
+## O que é JVM? 
+  "JVM (Java Virtual Machine) é uma máquina virtual responsável pela tradução dos ByteCodes oriundos do compilador Javac (Java Compiler) em código de máquina de cada sistema operacional.
