@@ -56,7 +56,7 @@
 
 ## 🐧 LINUX
 ## ⬇️ Instalação JVM no Linux
-1. Para instalar o JVM, digite no terminal:
+1. Para instalar o curl, digite no terminal:
 
 ```
 sudo apt install curl
