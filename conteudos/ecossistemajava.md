@@ -17,7 +17,7 @@
 > 
 > Disponível em <https://www.java.com/pt-BR/download/help/whatis_java.html>
 
-## Características
+### Características
   ✔️ Compilada
   
   ✔️ Interpretada
@@ -30,3 +30,14 @@
   
 ## O que é JVM? 
   "JVM (Java Virtual Machine) é uma máquina virtual responsável pela tradução dos ByteCodes oriundos do compilador Javac (Java Compiler) em código de máquina de cada sistema operacional.
+  
+### Características
+  ✔️ Execução de pilhas
+  
+  ✔️ Gerenciamento de memória
+  
+  ✔️ Gerenciamento de threads
+  
+  ✔️ Otimização de código (Compilação JIT - Just In Time)
+  
+  ✔️ Garbage Collector (GC)
