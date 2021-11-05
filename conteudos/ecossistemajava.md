@@ -128,3 +128,14 @@ Estrutura com atributos e métodos:
 Estrutura completa de uma classe:
 
   ![image](https://user-images.githubusercontent.com/81873935/140570592-3be091f0-3085-40e6-8183-d0e85d61ac60.png)
+  
+## Modificadores de acesso
+  Tipos de modificadores:
+  
+  ▫️ *public*: qualquer classe de qualquer pacote poderá acessar o atributo ou método.
+  
+  ▫️ *protected*: qualquer classe definida no mesmo pacote ou subclasse.
+  
+  ▫️ *sem modificador*: apenas classes definidas no mesmo pacote.
+  
+  ▫️ *private*: apenas a própria classe.
