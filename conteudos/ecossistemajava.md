@@ -147,3 +147,14 @@ Estrutura completa de uma classe:
   
   ▫️ **Métodos construtores**: definem como uma classe será instansciada (construída).
   ▫️ **Métodos comum**: definem comportamentos que podem ou não estar atribuídos às regras de negócio. Ex.: calcular taxas de um pedido, etc.
+
+## Estrutura de condição 💻
+  *Estrutura de condição é responsável por fazer o desvio do fluxo de execução do código de acordo com uma dada condição.*
+  
+  Tipos de estrutura de condição:
+  
+  ▫️ **IF ELSE**:
+
+  ![image](https://user-images.githubusercontent.com/81873935/140589920-8ca88120-662b-4e89-9a76-b38c5c738778.png)
+
+  
