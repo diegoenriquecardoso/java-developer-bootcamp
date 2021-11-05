@@ -89,6 +89,15 @@ O VSCODE irá gerar automaticamente um package com uma public class para nós.
 
 O VSCODE irá gerar automaticamente uma public static void name, onde substituiremos o name por *main*
   
+7. Dentro da public static void main, iremos escrever *sysou* e selecionar a opção sysout
+  
+  ![image](https://user-images.githubusercontent.com/81873935/140568577-da795086-45c3-4ec4-88f3-3b90ffe2f473.png)
+
+8. Temos então, o nosso primeiro Programa em Java, imprimindo 'Hello World!"
+  
+  ![image](https://user-images.githubusercontent.com/81873935/140568698-33701ae8-7abc-4e23-8e68-e12e3901fce2.png)
+
+*código para cópia:*
 ```
 package pacote1;
   
