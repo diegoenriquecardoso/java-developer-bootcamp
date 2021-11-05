@@ -61,3 +61,9 @@
 ```
 sudo apt install curl
 ```
+
+2. Instalando Java Version Manager (JVM):
+
+```
+curl -sL https://github.com/shyiko/jabba/raw/master/install.sh | bash && . ~/.jabba/jabba.sh
+```
