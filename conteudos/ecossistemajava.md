@@ -155,6 +155,10 @@ Estrutura completa de uma classe:
   
   ▫️ **IF ELSE**:
 
-  ![image](https://user-images.githubusercontent.com/81873935/140589920-8ca88120-662b-4e89-9a76-b38c5c738778.png)
+  ![image](https://user-images.githubusercontent.com/81873935/140590150-fdb4367f-acff-41fb-911a-aa685a84acd3.png)
+
+  ▫️ **SWITCH - CASE**:
+  
+  ![image](https://user-images.githubusercontent.com/81873935/140590114-6222e64b-5570-4834-910d-948aabcca566.png)
 
   
