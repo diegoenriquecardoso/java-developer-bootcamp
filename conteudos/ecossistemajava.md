@@ -69,16 +69,28 @@ Utilizando o VSCODE, podemos seguir os seguintes procedimentos para criar um pro
   
 4. Escolhemos o local onde nosso projeto ficará. (Eu, por exemplo, criei uma pasta workspace dentro dos Documentos do computador, assim posso organizar os meus exercícios dentro dessa pasta).
 
-5. Dentro da pasta `src` criamos um arquivo chamado `PrimeiroPrograma.java` (é importante que a primeira letra das palavras seja maiúsculas.
+5. Dentro da pasta `src` criamos uma pasta chamada `pacote1`
 
-![image](https://user-images.githubusercontent.com/81873935/140567377-3cf0c5b7-c663-4652-a8c0-3091fd91d317.png)
+![image](https://user-images.githubusercontent.com/81873935/140567667-37307ba7-535c-4118-8740-20a98bcc25f7.png)
 
-![image](https://user-images.githubusercontent.com/81873935/140567447-bb24801c-4090-4602-8d0a-ead47862ce21.png)
+![image](https://user-images.githubusercontent.com/81873935/140567753-0467067a-540b-4f0a-9933-dd382cffbb3c.png)
 
-6. Vamos escrever o seguinte código:
+5. Dentro da pasta `pacote1` criamos um arquivo chamado `PrimeiroPrograma.java` (é importante que a primeira letra das palavras seja maiúsculas.
+  
+![image](https://user-images.githubusercontent.com/81873935/140567843-82f0c472-135b-4623-94ad-c341a0ca8342.png)
 
+O VSCODE irá gerar automaticamente um package com uma public class para nós.
+  
+  ![image](https://user-images.githubusercontent.com/81873935/140567912-10875294-c0c4-4092-a2b9-d7baeeda9f7e.png)
+
+6. Dentro do public class, iremos escrever *pu* e selecionar a opção public static void main
+  
+  ![image](https://user-images.githubusercontent.com/81873935/140568266-4ccffa2a-24cf-4d29-837c-cfe7ff5ac67d.png)
+
+O VSCODE irá gerar automaticamente uma public static void name, onde substituiremos o name por *main*
+  
 ```
-package com.dio;
+package pacote1;
   
 public class PrimeiroPrograma {
 
