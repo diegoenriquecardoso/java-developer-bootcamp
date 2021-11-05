@@ -43,7 +43,13 @@
 ▫️ Garbage Collector (GC)
 
 ## Qual a diferença entre JRM e JDK?
-  
 ▫️ **JRE (Java Runtime Environment)**: responsável por executar os programas em Java.
   
 ▫️ **JDK (Java Development Kit)**: utiliários que permitem o desenvolvimento de programas em Java. Já possui a JVM para executar os programas.
+
+## Quais os tipos de plataformas Java?
+▫️ **Java SE (Java Standard Edition)**: contém as especificações do Java e pode ser implementado por diversas empresas como Oracle, OpenJDK, Azul Zulu, etc.
+  
+▫️ **Java EE (Java Enterprise Edition)**: contém todas as especificações do Java SE e um número de programas úteis para que executem em servidores. Em 2019 foi nomeado para Jakarta EE.
+  
+▫️ **Java ME (Java Micro Edition):** contém todas as especificações para desenvolvimento de programas para dispositivos pequenos como celulares, PDAs etc.
