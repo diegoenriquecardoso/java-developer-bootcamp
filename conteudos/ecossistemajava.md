@@ -114,3 +114,17 @@ public class PrimeiroPrograma {
   Não podemos usar as seguintes palavras para a definição de um nome, de um método, classe ou atributo.
   
 ![image](https://user-images.githubusercontent.com/81873935/140569641-94671bad-0797-4ca8-980c-8ada2ec5a352.png)
+
+## Declaração de classes
+
+Estrutura básica de uma classe:
+  
+![image](https://user-images.githubusercontent.com/81873935/140570419-381bacbc-33fb-40a8-b1fe-47d54393c9b6.png)
+  
+Estrutura com atributos e métodos:
+  
+![image](https://user-images.githubusercontent.com/81873935/140570499-69754726-e7f0-4b25-b102-6e42c19ef15e.png)
+  
+Estrutura completa de uma classe:
+
+  ![image](https://user-images.githubusercontent.com/81873935/140570592-3be091f0-3085-40e6-8183-d0e85d61ac60.png)
