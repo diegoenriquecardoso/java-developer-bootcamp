@@ -110,12 +110,12 @@ public class PrimeiroPrograma {
 }
 ```
 
-## Palavras reservadas
+## Palavras reservadas 💻
   Não podemos usar as seguintes palavras para a definição de um nome, de um método, classe ou atributo.
   
 ![image](https://user-images.githubusercontent.com/81873935/140569641-94671bad-0797-4ca8-980c-8ada2ec5a352.png)
 
-## Declaração de classes
+## Declaração de classes 💻
 
 Estrutura básica de uma classe:
   
@@ -129,7 +129,7 @@ Estrutura completa de uma classe:
 
   ![image](https://user-images.githubusercontent.com/81873935/140570592-3be091f0-3085-40e6-8183-d0e85d61ac60.png)
   
-## Modificadores de acesso
+## Modificadores de acesso 💻
   Tipos de modificadores:
   
   ▫️ *public*: qualquer classe de qualquer pacote poderá acessar o atributo ou método.
