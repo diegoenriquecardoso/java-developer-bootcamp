@@ -132,10 +132,18 @@ Estrutura completa de uma classe:
 ## Modificadores de acesso 💻
   Tipos de modificadores:
   
-  ▫️ *public*: qualquer classe de qualquer pacote poderá acessar o atributo ou método.
+  ▫️ **public**: qualquer classe de qualquer pacote poderá acessar o atributo ou método.
   
-  ▫️ *protected*: qualquer classe definida no mesmo pacote ou subclasse.
+  ▫️ **protected**: qualquer classe definida no mesmo pacote ou subclasse.
   
-  ▫️ *sem modificador*: apenas classes definidas no mesmo pacote.
+  ▫️ **sem modificador**: apenas classes definidas no mesmo pacote.
   
-  ▫️ *private*: apenas a própria classe.
+  ▫️ **private**: apenas a própria classe.
+
+## Métodos 💻
+  *Métodos são funções que definem o comportamento de uma classe.*
+  
+  Tipos de métodos:
+  
+  ▫️ **Métodos construtores**: definem como uma classe será instansciada (construída).
+  ▫️ **Métodos comum**: definem comportamentos que podem ou não estar atribuídos às regras de negócio. Ex.: calcular taxas de um pedido, etc.
