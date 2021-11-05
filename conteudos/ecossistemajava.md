@@ -1,7 +1,7 @@
 # <p align="center"> 💻 Introdução ao Ecossistema Java 💻
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
 
-## Requisitos
+## Requisitos ❗
   ✔️ Distribuição Linux (Ubuntu, Mint, etc)
   
   ✔️ Conhecimentos sobre comandos básicos no terminal Linux
@@ -28,7 +28,7 @@
   
   ✔️ Executada em uma máquina virtual - JVM (Java Virtual Machine)
   
-## O que é JVM? 
+## O que é JVM? ☕
   *"JVM (Java Virtual Machine) é uma máquina virtual responsável pela tradução dos ByteCodes oriundos do compilador Javac (Java Compiler) em código de máquina de cada sistema operacional.*
   
 ### Características
