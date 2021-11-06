@@ -161,4 +161,15 @@ Estrutura completa de uma classe:
   
   ![image](https://user-images.githubusercontent.com/81873935/140590114-6222e64b-5570-4834-910d-948aabcca566.png)
 
+## Estrutura de repetição 💻
+  *Estrutura de repetição é responsável por executar repetidamente uma instrução ou um bloco de instruções até que uma condição esteja sendo feita.*
   
+  Tipos de estrutura de repetição:
+  
+  ▫️ while:
+  
+  ![image](https://user-images.githubusercontent.com/81873935/140590374-1b65c9f1-f283-412a-90cf-19b593922b3a.png)
+
+  ▫️ do - while
+  ▫️ for
+  ▫️ enhanced for
