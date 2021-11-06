@@ -191,6 +191,27 @@ Estrutura completa de uma classe:
 ## Javadoc 💻
   
   **O que é Javadoc?**
+  
   Javadoc é uma ferramenta para documentação no formato HTML que se baseia nos comentários do código-fonte.
   
   Os comentários precisam conter tags para que a documentação fique legível.
+
+## Tags Javadoc
+  
+  ▫️ @author - especifica o autor da classe ou do método
+  
+  ▫️ @deprecated - identifica classes ou métodos obsoletos
+  
+  ▫️ @link - possibilita a definição de um link para outro documento local ou remoto através de um URL
+  
+  ▫️ @param - descreve um parâmetro que será passado a um método
+  
+  ▫️ @return - descreve qual o tipo de retorno de um método
+  
+  ▫️ @see - associa a outras classes ou métodos
+  
+  ▫️ @since - descreve desde quando uma classe ou métodos foram adicionados
+  
+  ▫️ @throws - descreve os tipos de exceções que podem ser lançadas por um método
+  
+  ▫️ @version - descreve a versão da classe ou método
