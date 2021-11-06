@@ -171,5 +171,11 @@ Estrutura completa de uma classe:
   ![image](https://user-images.githubusercontent.com/81873935/140590374-1b65c9f1-f283-412a-90cf-19b593922b3a.png)
 
   ▫️ do - while
+  
+  ![image](https://user-images.githubusercontent.com/81873935/140590539-20075ed4-b006-4d91-b951-0bb2e4091bac.png)
+  
   ▫️ for
+  
+  ![image](https://user-images.githubusercontent.com/81873935/140590630-adb663c0-9396-4932-9339-237ae41ae2f9.png)
+
   ▫️ enhanced for
