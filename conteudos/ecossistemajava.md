@@ -187,3 +187,10 @@ Estrutura completa de uma classe:
   ▫️ comentários em linha: são feitos com duas barras "//"
   
   ▫️ comentário em bloco: são feitos por uma barra e dois asteriscos "/**" e finalizados por um asterisco e uma barra "*/"
+
+## Javadoc 💻
+  
+  **O que é Javadoc?**
+  Javadoc é uma ferramenta para documentação no formato HTML que se baseia nos comentários do código-fonte.
+  
+  Os comentários precisam conter tags para que a documentação fique legível.
