@@ -196,7 +196,7 @@ Estrutura completa de uma classe:
   
   Os comentários precisam conter tags para que a documentação fique legível.
 
-## Tags Javadoc
+## Tags Javadoc 💻
   
   ▫️ @author - especifica o autor da classe ou do método
   
@@ -215,3 +215,11 @@ Estrutura completa de uma classe:
   ▫️ @throws - descreve os tipos de exceções que podem ser lançadas por um método
   
   ▫️ @version - descreve a versão da classe ou método
+  
+## Comunidades Java 💻
+  
+  ▫️ OpenSanca - opensanca.com.br
+  
+  ▫️ SouJava - soujava.org.br
+  
+  ▫️ DevOpsPBS - devopspbs.org
