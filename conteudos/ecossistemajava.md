@@ -153,11 +153,11 @@ Estrutura completa de uma classe:
   
   Tipos de estrutura de condição:
   
-  ▫️ **IF ELSE**:
+  ### ▫️ **IF ELSE**:
 
   ![image](https://user-images.githubusercontent.com/81873935/140590150-fdb4367f-acff-41fb-911a-aa685a84acd3.png)
 
-  ▫️ **SWITCH - CASE**:
+  ### ▫️ **SWITCH - CASE**:
   
   ![image](https://user-images.githubusercontent.com/81873935/140590114-6222e64b-5570-4834-910d-948aabcca566.png)
 
@@ -166,19 +166,19 @@ Estrutura completa de uma classe:
   
   Tipos de estrutura de repetição:
   
-  ▫️ while:
+  ### ▫️ while:
   
   ![image](https://user-images.githubusercontent.com/81873935/140590374-1b65c9f1-f283-412a-90cf-19b593922b3a.png)
 
-  ▫️ do - while
+  ### ▫️ do - while
   
   ![image](https://user-images.githubusercontent.com/81873935/140590539-20075ed4-b006-4d91-b951-0bb2e4091bac.png)
   
-  ▫️ for
+  ### ▫️ for
   
   ![image](https://user-images.githubusercontent.com/81873935/140590630-adb663c0-9396-4932-9339-237ae41ae2f9.png)
 
-  ▫️ enhanced for
+  ### ▫️ enhanced for
 
   ![image](https://user-images.githubusercontent.com/81873935/140590744-62dbe101-16ff-4972-86aa-ef61d3632adb.png)
 
