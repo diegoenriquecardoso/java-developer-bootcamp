@@ -182,4 +182,8 @@ Estrutura completa de uma classe:
 
   ![image](https://user-images.githubusercontent.com/81873935/140590744-62dbe101-16ff-4972-86aa-ef61d3632adb.png)
 
+## Documentação Java 💻
   
+  ▫️ comentários em linha: são feitos com duas barras "//"
+  
+  ▫️ comentário em bloco: são feitos por uma barra e dois asteriscos "/**" e finalizados por um asterisco e uma barra "*/"
