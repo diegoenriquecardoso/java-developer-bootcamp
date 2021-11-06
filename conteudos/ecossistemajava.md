@@ -223,3 +223,17 @@ Estrutura completa de uma classe:
   ▫️ SouJava - soujava.org.br
   
   ▫️ DevOpsPBS - devopspbs.org
+
+## Requisitos do profissional 💻
+  
+  Exemplos de Hard Skills:
+  
+  ▫️ Spring Boot
+  
+  ▫️ Spring Cloud 
+  
+  ▫️ Apache Kafka
+  
+  ▫️ RabbitMQ
+  
+  ▫️ Arquitetura Cloud
