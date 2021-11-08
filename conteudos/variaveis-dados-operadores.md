@@ -137,4 +137,16 @@
   
   ▫️ Downcast (explícito): uma variavel de tipo de dado maior e é rebaixada a menor 
   
+  Utilização:
+  
+  | | byte | short | char | int | long | float | double |
+  | --- | --- | --- | --- | --- | --- | --- | --- |
+  | byte | | U - I | char | U - I | U - I | U - I | U - I |
+  | short | D - E |  | char | U - I | U - I | U - I | U - I |
+  | char | D - E | D - E |  | U - I | U - I | U - I | U - I |
+  | int | D - E | D - E | D - E |  | U - I | U - I | U - I |
+  | long | D - E | D - E | D - E | D - E | | U - I | U - I |
+  | float | D - E | D - E | D - E | D - E | D - E | | U - I |
+  | double | D - E | D - E | D - E | D - E | D - E | D - E | |
+  
   [<p align="center"> ⬅️ Conteúdo anterior](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/ecossistemajava.md)
