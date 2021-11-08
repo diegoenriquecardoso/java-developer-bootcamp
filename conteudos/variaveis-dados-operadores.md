@@ -149,4 +149,6 @@
   | float | D - E | D - E | D - E | D - E | D - E | | U - I |
   | double | D - E | D - E | D - E | D - E | D - E | D - E | |
   
+  U - I: UPCAST IMPLÍCITO  |  D - E: DOWNCAST EXPLÍCITO
+  
   [<p align="center"> ⬅️ Conteúdo anterior](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/ecossistemajava.md)
