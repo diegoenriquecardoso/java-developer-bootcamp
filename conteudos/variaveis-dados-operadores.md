@@ -1,6 +1,6 @@
-# <p align="center"> 💻 Variváveis, Tipos de dados e Operadores aritméticos 💻
+# <p align="center"> ☕ Variváveis, Tipos de dados e Operadores aritméticos ☕
 
-  ## Conceituação
+  ## Conceituação 💻
   
   > "Um espaço na memória do computador, onde se pode guardar valores."
   
