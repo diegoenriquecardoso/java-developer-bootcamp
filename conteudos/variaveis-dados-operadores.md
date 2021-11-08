@@ -42,4 +42,14 @@
   
   ▫️ Não pode ser palavras reservadas do Java.
   
+  ### Boas práticas
+  
+  ▫️ Sempre começar com letra minúscula;
+  
+  ▫️ Nomes expressivos;
+  
+  ▫️ Notação camelo;
+  
+  ▫️ Quando constante(final) maiúscula e separada por "_".
+  
   [<p align="center"> ⬅️ Conteúdo anterior](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/ecossistemajava.md)
