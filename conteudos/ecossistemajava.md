@@ -242,12 +242,20 @@
   
   ▫️ Default methods
   
-  ![image](https://user-images.githubusercontent.com/81873935/140739674-110912f6-9422-4993-90d3-86b1880e9c90.png)
+  ![image](https://user-images.githubusercontent.com/81873935/140741087-aefbf80f-9cc5-4eb5-b2ef-2fc47e68ed85.png)
   
   ▫️ Lambdas
   
+  ![image](https://user-images.githubusercontent.com/81873935/140741156-8e25d816-6175-4933-8799-ec9318d88c75.png)
+  
   ▫️ Method references
+  
+  ![image](https://user-images.githubusercontent.com/81873935/140741211-769c2dbb-3257-4f78-9a30-5b5b36c6f2ec.png)
   
   ▫️ Streams
   
+  ![image](https://user-images.githubusercontent.com/81873935/140741259-fc1438c9-ec65-4519-87eb-54d6a1604d6a.png)
+
   ▫️ Datas
+
+  ![image](https://user-images.githubusercontent.com/81873935/140741288-f6bda696-44fd-499f-bc70-6b3fe7f37dfd.png)
