@@ -90,7 +90,17 @@
   
   ▫️ Objeto:
   
-
+  | Tipo de Dado | Valor default |
+  | --- | --- | 
+  | byte | 0 |
+  | short | 0 |
+  | int | 0 |
+  | long | 0L |
+  | float | 0.0f |
+  | double | | 0.0d |
+  | char | '\u0000' |
+  | String (e objetos) | null |
+  | boolean | false |
   
   
   [<p align="center"> ⬅️ Conteúdo anterior](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/ecossistemajava.md)
