@@ -268,3 +268,6 @@
   
   ![image](https://user-images.githubusercontent.com/81873935/140742075-dbfa5f98-5e95-4709-9b56-a70c6c003de4.png)
 
+  ▫️ Manipulação de arquivos
+  
+  ![image](https://user-images.githubusercontent.com/81873935/140742467-3f22488c-1df7-4208-8cfd-e9f6bb17cc8b.png)
