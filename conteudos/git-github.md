@@ -42,5 +42,9 @@ https://git-scm.com/downloads
 | Deleta todas as branch que não se encontram no repositório remoto | git branch --merged ## | git branch --merged ## |
 | Checar o que houve nas alterações | git diff | git diff --name only |
 | Criar arquivos sem conteúdo | echo > | touch |
+  
+  ## Certificado:
+  ![image](https://user-images.githubusercontent.com/81873935/140789798-911d7c62-61ac-45bc-8272-d01353354b35.png)
+
 
 [<p align="center"> ⬅️ Conteúdo anterior](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/estrutura-dados-algoritmo.md) | [Próximo conteúdo ➡️](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/linux.md)
