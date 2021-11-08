@@ -275,5 +275,9 @@
   ▫️ Http Client padronizado (chamada assíncrona)
   
   ![image](https://user-images.githubusercontent.com/81873935/140742731-3ff8a36d-650d-415f-8ca4-0a805d330787.png)
+  
+  ## Certificado:
+  ![image](https://user-images.githubusercontent.com/81873935/140790138-94e1e9e4-63c2-4bbb-906d-6b01a6ecff8b.png)
+
 
   [<p align="center"> ⬅️ Conteúdo anterior](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/IDEjava.md) | [Próximo conteúdo ➡️](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/variaveis-dados-operadores.md)
