@@ -27,5 +27,9 @@ Existem diversas estruturas de dados utilizadas na programação que são largam
 **Vetores e matrizes:** coleções de variáveis contínuas na memória e acessadas através de um número de índice. A diferença entre vetores e matrizes é que vetores são de uma única dimensão, enquanto matrizes podem conter várias dimensões. 
 
 **Registro:** composto por campos que especificam cada uma das informações que o compõem. Uma variável do tipo registro é uma variável composta, pois engloba um conjunto de dados, e é heterogênea, pois cada campo pode ser de um tipo primitivo diferente. 
+  
+  ## Certificado:
+  ![image](https://user-images.githubusercontent.com/81873935/140789528-0a5a20c7-44a0-4d4d-8609-56cc839e85d8.png)
+
 
 [<p align="center"> ⬅️ Conteúdo anterior](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/logica-programacao.md) | [Próximo conteúdo ➡️](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/git-github.md)
