@@ -48,7 +48,7 @@
   
   ▫️ Nomes expressivos;
   
-  ▫️ Notação camelo;
+  ▫️ Notação camelo (isento variavel final);
   
   ▫️ Quando constante(final) maiúscula e separada por "_".
   
