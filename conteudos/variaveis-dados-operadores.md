@@ -117,7 +117,15 @@
   
   ▫️ atribuição: =, +=, -=, *=, /=, %=
   
+  Utilização:
   
+  | Operador | Precedência |
+  | --- | --- |
+  | pós-fixado | exp++, exp-- |
+  | pré-fixado | ++exp, --exp |
+  | multiplicativo | *, /, % |
+  | aditivo | +, - |
+  | atribuição | =, +=, -=, *=, /=, %= |
   
   
   [<p align="center"> ⬅️ Conteúdo anterior](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/ecossistemajava.md)
