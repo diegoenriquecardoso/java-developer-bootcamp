@@ -16,7 +16,7 @@
   
   ## Criação 💻
   
-  Padrão de definição
+  ### Padrão de definição
   
   `<?visibilidade?><?modificador?> tipo nome <?=valorInicial?>;`
   
@@ -29,5 +29,17 @@
   **N**ome: nome que é fornecido a variável
   
   **V**alor **I**nicial: valor inicial, caso deseja
+  
+  ### Convenções e regras:
+  
+  ▫️ Não devem começar com números;
+  
+  ▫️ Embora permitido, "$" e "_" devem ser evitados;
+  
+  ▫️ São case-sensitive;
+  
+  ▫️ Sem espaços;
+  
+  ▫️ Não pode ser palavras reservadas do Java.
   
   [<p align="center"> ⬅️ Conteúdo anterior](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/ecossistemajava.md)
