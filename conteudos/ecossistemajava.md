@@ -271,3 +271,7 @@
   ▫️ Manipulação de arquivos
   
   ![image](https://user-images.githubusercontent.com/81873935/140742467-3f22488c-1df7-4208-8cfd-e9f6bb17cc8b.png)
+
+  ▫️ Http Client padronizado (chamada assíncrona)
+  
+  ![image](https://user-images.githubusercontent.com/81873935/140742731-3ff8a36d-650d-415f-8ca4-0a805d330787.png)
