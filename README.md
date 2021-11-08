@@ -24,3 +24,5 @@
 [5 - Dominando IDE's Java](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/IDEjava.md)
   
 [6 - Introdução ao Ecossistema Java](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/ecossistemajava.md)
+
+[7 - Variváveis, Tipos de Dados e Operadores Aritméticos](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/variaveis-dados-operadores.md) 
