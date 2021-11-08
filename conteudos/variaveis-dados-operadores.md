@@ -56,13 +56,21 @@
     
   > "São os valores e consequentemente operações que as variáveis podem assumir e sofrer, respectivamente"
     
-  Tipificação:
+  ### Tipificação:
     
   ▫️ Estática (forte) **vs** Dinâmica (fraco)
     
   ▫️ Primitivo **vs** Composto
 
+  ### Opções de tipos:
   
+  ▫️ Textual 
+  
+  ▫️ Numeral
+  
+  ▫️ Lógico 
+  
+  ▫️ Objeto
   
   
   [<p align="center"> ⬅️ Conteúdo anterior](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/ecossistemajava.md)
