@@ -52,14 +52,17 @@
   
   ▫️ Quando constante(final) maiúscula e separada por "_".
   
-  [<p align="center"> ⬅️ Conteúdo anterior](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/ecossistemajava.md)
-
   ## Conceituação de Tipo de Dados 💻
     
-    > "São os valores e consequentemente operações que as variáveis podem assumir e sofrer, respectivamente"
+  > "São os valores e consequentemente operações que as variáveis podem assumir e sofrer, respectivamente"
     
-    Tipificação:
+  Tipificação:
     
-    ▫️ Estática (forte) **vs** Dinâmica (fraco)
+  ▫️ Estática (forte) **vs** Dinâmica (fraco)
     
-    ▫️ Primitivo **vs** Composto
+  ▫️ Primitivo **vs** Composto
+
+  
+  
+  
+  [<p align="center"> ⬅️ Conteúdo anterior](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/ecossistemajava.md)
