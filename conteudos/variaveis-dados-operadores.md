@@ -103,4 +103,21 @@
   | boolean | false |
   
   
+  ## Operadores Aritméticos 💻
+  
+  > "São símbolos especiais que são capazes de realizar ações específicas em um, dois ou mais operandos e em seguida retornar um resultado!
+  
+  Tipos:
+  
+  ▫️ pós-fixado: exp++ ou exp--
+  
+  ▫️ prefixado: ++exp ou --exp
+  
+  ▫️ aritmético: +, -, *, / e %
+  
+  ▫️ atribuição: =, +=, -=, *=, /=, %=
+  
+  
+  
+  
   [<p align="center"> ⬅️ Conteúdo anterior](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/ecossistemajava.md)
