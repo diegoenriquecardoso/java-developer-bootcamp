@@ -242,6 +242,8 @@
   
   ▫️ Default methods
   
+  ![image](https://user-images.githubusercontent.com/81873935/140739674-110912f6-9422-4993-90d3-86b1880e9c90.png)
+  
   ▫️ Lambdas
   
   ▫️ Method references
