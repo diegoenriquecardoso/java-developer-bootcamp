@@ -4,7 +4,7 @@
   
   > "Um espaço na memória do computador, onde se pode guardar valores."
   
-  Existem 4 tipos:
+  ### Tipos:
   
   ▫️ Instância: objeto
   
@@ -107,7 +107,7 @@
   
   > "São símbolos especiais que são capazes de realizar ações específicas em um, dois ou mais operandos e em seguida retornar um resultado!
   
-  Tipos:
+  ### Tipos:
   
   ▫️ pós-fixado: exp++ ou exp--
   
@@ -117,7 +117,7 @@
   
   ▫️ atribuição: =, +=, -=, *=, /=, %=
   
-  Utilização:
+  ### Utilização:
   
   | Operador | Precedência |
   | --- | --- |
@@ -131,13 +131,13 @@
   
   > "É a transformação de uma determinada variável de tipo menos específico para um tipo mais específico ou vice-versa"
   
-  Tipos:
+  ### Tipos:
   
   ▫️ Upcast (implícito): promoção para um dado maior, não há preocupação para dizer onde está indo
   
   ▫️ Downcast (explícito): uma variavel de tipo de dado maior e é rebaixada a menor 
   
-  Utilização:
+  ### Utilização:
   
   | | byte | short | char | int | long | float | double |
   | --- | --- | --- | --- | --- | --- | --- | --- |
