@@ -20,4 +20,14 @@
   
   `<?visibilidade?><?modificador?> tipo nome <?=valorInicial?>;`
   
+  **V**isibilidade: "public", "protected" e "private"
+  
+  **M**odificador: "static" e "final"
+  
+  **T**ipo: tipo de dado
+  
+  **N**ome: nome que é fornecido a variável
+  
+  **V**alor **I**nicial: valor inicial, caso deseja
+  
   [<p align="center"> ⬅️ Conteúdo anterior](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/ecossistemajava.md)
