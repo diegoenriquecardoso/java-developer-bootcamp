@@ -1,4 +1,4 @@
-# <p align="center"> ☕ Variáveis, Tipos de dados e Operadores Aritméticos ☕
+# <p align="center"> ☕ Variáveis, Tipos de Dados e Operadores Aritméticos ☕
 
   ## Conceituação de Variáveis 💻
   
@@ -127,5 +127,14 @@
   | aditivo | +, - |
   | atribuição | =, +=, -=, *=, /=, %= |
   
+  ## Conversões (casting) 💻
+  
+  > "É a transformação de uma determinada variável de tipo menos específico para um tipo mais específico ou vice-versa"
+  
+  Tipos:
+  
+  ▫️ Upcast (implícito): promoção para um dado maior, não há preocupação para dizer onde está indo
+  
+  ▫️ Downcast (explícito): uma variavel de tipo de dado maior e é rebaixada a menor 
   
   [<p align="center"> ⬅️ Conteúdo anterior](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/ecossistemajava.md)
