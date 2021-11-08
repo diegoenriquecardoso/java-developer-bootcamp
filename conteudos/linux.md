@@ -217,10 +217,12 @@ Para modificar um arquivo .txt, execute o `nano (nome do arquivo)` e você será
 
 ### O que é **Protocolo**?
 
-Protocolo é a "linguagem" usada pelos dispositivos de uma rede de modo que eles consigam se entender (Torres, 2004). 
+> Protocolo é a "linguagem" usada pelos dispositivos de uma rede de modo que eles consigam se entender (Torres, 2004). 
 
 **IP - Protocolo de Internet - Endereço IP:** números que identificam seu computador em uma rede
+  
 **ICMP - (Internet Control Message Protocol):** tem por objetivo prover mensagens de controle na comunicação entre nós
+  
 **DNS - Domain Name Server:** esse protocolo de aplicação tem por função identificar endereços IP e manter uma tabela com os endereços dos caminhos de algumas redes.
 
 ### O que é **Interface de Rede**?
