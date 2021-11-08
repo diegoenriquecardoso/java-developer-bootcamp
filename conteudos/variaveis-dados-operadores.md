@@ -1,6 +1,6 @@
-# <p align="center"> ☕ Variváveis, Tipos de dados e Operadores Aritméticos ☕
+# <p align="center"> ☕ Variáveis, Tipos de dados e Operadores Aritméticos ☕
 
-  ## Conceituação 💻
+  ## Conceituação de Variáveis 💻
   
   > "Um espaço na memória do computador, onde se pode guardar valores."
   
@@ -53,3 +53,13 @@
   ▫️ Quando constante(final) maiúscula e separada por "_".
   
   [<p align="center"> ⬅️ Conteúdo anterior](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/ecossistemajava.md)
+
+  ## Conceituação de Tipo de Dados 💻
+    
+    > "São os valores e consequentemente operações que as variáveis podem assumir e sofrer, respectivamente"
+    
+    Tipificação:
+    
+    ▫️ Estática (forte) **vs** Dinâmica (fraco)
+    
+    ▫️ Primitivo **vs** Composto
