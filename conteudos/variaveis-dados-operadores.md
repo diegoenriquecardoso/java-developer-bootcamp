@@ -1,4 +1,4 @@
-# <p align="center"> ☕ Variváveis, Tipos de dados e Operadores aritméticos ☕
+# <p align="center"> ☕ Variváveis, Tipos de dados e Operadores Aritméticos ☕
 
   ## Conceituação 💻
   
@@ -14,5 +14,10 @@
   
   ▫️ Parâmetro: na assinatura do método
   
+  ## Criação 💻
+  
+  Padrão de definição
+  
+  `<?visibilidade?><?modificador?> tipo nome <?=valorInicial?>;`
   
   [<p align="center"> ⬅️ Conteúdo anterior](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/ecossistemajava.md)
