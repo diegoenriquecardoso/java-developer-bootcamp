@@ -259,3 +259,9 @@
   ▫️ Datas
 
   ![image](https://user-images.githubusercontent.com/81873935/140741288-f6bda696-44fd-499f-bc70-6b3fe7f37dfd.png)
+
+  ▫️ Manipulação de Strings 
+  
+  ![image](https://user-images.githubusercontent.com/81873935/140741884-8f137cd6-8334-42e3-b01b-831266d7c94d.png)
+
+  
