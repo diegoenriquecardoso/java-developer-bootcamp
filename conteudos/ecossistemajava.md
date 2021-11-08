@@ -264,4 +264,7 @@
   
   ![image](https://user-images.githubusercontent.com/81873935/140741884-8f137cd6-8334-42e3-b01b-831266d7c94d.png)
 
+  ▫️ Variavéis por inferência
   
+  ![image](https://user-images.githubusercontent.com/81873935/140742075-dbfa5f98-5e95-4709-9b56-a70c6c003de4.png)
+
