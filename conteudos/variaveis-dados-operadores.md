@@ -64,7 +64,11 @@
 
   ### Opções de tipos e Utilização:
   
-  ▫️ Textual 
+  ▫️ Textual:
+  
+  char: caracteres de 16-bit unicode -> `char c = '\u0084';` ou `char c = 'T';`
+  
+  string: um tipo "especial" -> String s = "T";
   
   ▫️ Numeral:
   
