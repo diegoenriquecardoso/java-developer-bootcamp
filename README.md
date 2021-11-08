@@ -27,4 +27,4 @@
 
 [7 - Variváveis, Tipos de Dados e Operadores Aritméticos](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/variaveis-dados-operadores.md) 
 
-[8 - Lógica Condicional e Controle de Fluxos em Java](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/variaveis-dados-operadores.md) 
+[8 - Lógica Condicional e Controle de Fluxos em Java](https://github.com/vitoriadevalois/java-developer-bootcamp/blob/main/conteudos/logica-condicional-fluxos.md) 
